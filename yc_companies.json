@@ -1,0 +1,5002 @@
+[
+    {
+        "name": "TigerEye",
+        "description": "Modern enterprise software for sales leaders",
+        "link": "https://www.ycombinator.com/companies/tigereye"
+    },
+    {
+        "name": "Million.js",
+        "description": "Copilot for optimizing web performance",
+        "link": "https://www.ycombinator.com/companies/million-js"
+    },
+    {
+        "name": "Konstructly",
+        "description": "Making construction payments more efficient",
+        "link": "https://www.ycombinator.com/companies/konstructly"
+    },
+    {
+        "name": "TrueClaim",
+        "description": "AI hub for benefits teams to automate healthcare cost containment",
+        "link": "https://www.ycombinator.com/companies/trueclaim"
+    },
+    {
+        "name": "SiLogy",
+        "description": "Next generation tools for integrated circuit design and verification",
+        "link": "https://www.ycombinator.com/companies/silogy"
+    },
+    {
+        "name": "Senso",
+        "description": "AI-Powered knowledge base designed for Credit Unions",
+        "link": "https://www.ycombinator.com/companies/senso"
+    },
+    {
+        "name": "Magic Hour",
+        "description": "Platform for AI video generation.",
+        "link": "https://www.ycombinator.com/companies/magic-hour"
+    },
+    {
+        "name": "Lumona",
+        "description": "Transforming search by building an internet of AI experts.",
+        "link": "https://www.ycombinator.com/companies/lumona"
+    },
+    {
+        "name": "Basepilot",
+        "description": "Create a copilot for your product with no-code.",
+        "link": "https://www.ycombinator.com/companies/basepilot"
+    },
+    {
+        "name": "CodeMuse",
+        "description": "Improve coding efficiency with AI-powered search and automated docs",
+        "link": "https://www.ycombinator.com/companies/codemuse"
+    },
+    {
+        "name": "Convey",
+        "description": "Universal search for customer success",
+        "link": "https://www.ycombinator.com/companies/convey"
+    },
+    {
+        "name": "Retell AI",
+        "description": "Build Interactive Voice Agents Into Your Product",
+        "link": "https://www.ycombinator.com/companies/retell-ai"
+    },
+    {
+        "name": "Rove",
+        "description": "The first travel credit card for Generation Z.",
+        "link": "https://www.ycombinator.com/companies/rove"
+    },
+    {
+        "name": "camelQA",
+        "description": "AI-driven QA testing. Never write a test case again.",
+        "link": "https://www.ycombinator.com/companies/camelqa"
+    },
+    {
+        "name": "Stackwise",
+        "description": "Augment your knowledge base",
+        "link": "https://www.ycombinator.com/companies/stackwise"
+    },
+    {
+        "name": "Terrakotta",
+        "description": "Run live technical interviews with AI",
+        "link": "https://www.ycombinator.com/companies/terrakotta"
+    },
+    {
+        "name": "Stacksync",
+        "description": "Real-time and two-way sync between CRMs and Databases",
+        "link": "https://www.ycombinator.com/companies/stacksync"
+    },
+    {
+        "name": "Openmart",
+        "description": "Openmart helps brands and manufacturers automate B2B sales. ",
+        "link": "https://www.ycombinator.com/companies/openmart"
+    },
+    {
+        "name": "Cleva",
+        "description": "USD banking platform for emerging markets",
+        "link": "https://www.ycombinator.com/companies/cleva"
+    },
+    {
+        "name": "just words",
+        "description": "Expedite growth with efficient short-form content iterations",
+        "link": "https://www.ycombinator.com/companies/just-words"
+    },
+    {
+        "name": "Lumina",
+        "description": "AI Search Engine for Scientific Research",
+        "link": "https://www.ycombinator.com/companies/lumina-2"
+    },
+    {
+        "name": "Voicepanel",
+        "description": "AI-moderated research",
+        "link": "https://www.ycombinator.com/companies/voicepanel"
+    },
+    {
+        "name": "Abel",
+        "description": "An information filter for attorneys",
+        "link": "https://www.ycombinator.com/companies/abel"
+    },
+    {
+        "name": "Delve",
+        "description": "HIPAA compliance in hours, not months.",
+        "link": "https://www.ycombinator.com/companies/delve"
+    },
+    {
+        "name": "Shiboleth",
+        "description": "Detect Audio Fraud in Realtime. Including Deepfake.",
+        "link": "https://www.ycombinator.com/companies/shiboleth"
+    },
+    {
+        "name": "Toma",
+        "description": "Automate phone calls for businesses with natural-sounding voice AI",
+        "link": "https://www.ycombinator.com/companies/toma"
+    },
+    {
+        "name": "Carma",
+        "description": "Marketplace for Same-Day Auto Repair.",
+        "link": "https://www.ycombinator.com/companies/carma"
+    },
+    {
+        "name": "Preloop",
+        "description": "Intelligent ML Feature Platform for Fast Moving ML and AI Teams",
+        "link": "https://www.ycombinator.com/companies/preloop"
+    },
+    {
+        "name": "Superagent.sh",
+        "description": "The open framework for building AI-assistants",
+        "link": "https://www.ycombinator.com/companies/superagent-sh"
+    },
+    {
+        "name": "Bilanc",
+        "description": "Mixpanel for Finance and Unit Economics",
+        "link": "https://www.ycombinator.com/companies/bilanc"
+    },
+    {
+        "name": "SevnAI",
+        "description": "Copilot for Graphic Design",
+        "link": "https://www.ycombinator.com/companies/sevnai"
+    },
+    {
+        "name": "Recipe",
+        "description": "Intelligent document editor for teams",
+        "link": "https://www.ycombinator.com/companies/recipe"
+    },
+    {
+        "name": "CodeAnt AI",
+        "description": "Scale, Optimise & Enforce Clean Code, Effortlessly!",
+        "link": "https://www.ycombinator.com/companies/codeant-ai"
+    },
+    {
+        "name": "Draftaid",
+        "description": "AI-copilot for manufacturing drawings",
+        "link": "https://www.ycombinator.com/companies/draftaid"
+    },
+    {
+        "name": "OpenCopilot",
+        "description": "Build an AI copilot for your own product",
+        "link": "https://www.ycombinator.com/companies/opencopilot"
+    },
+    {
+        "name": "Salvy",
+        "description": "Mobile carrier for businesses in Brazil",
+        "link": "https://www.ycombinator.com/companies/salvy"
+    },
+    {
+        "name": "Collate",
+        "description": "AI-powered customer obsession dashboard for high touch B2B teams",
+        "link": "https://www.ycombinator.com/companies/collate"
+    },
+    {
+        "name": "phospho",
+        "description": "Analytics and Evaluation for LLM Apps",
+        "link": "https://www.ycombinator.com/companies/phospho"
+    },
+    {
+        "name": "InQuery",
+        "description": "Fully managed data lakehouse",
+        "link": "https://www.ycombinator.com/companies/inquery-2"
+    },
+    {
+        "name": "Markprompt",
+        "description": "AI for customer support",
+        "link": "https://www.ycombinator.com/companies/markprompt"
+    },
+    {
+        "name": "Tamarind Bio",
+        "description": "No-code bioinformatics platform",
+        "link": "https://www.ycombinator.com/companies/tamarind-bio"
+    },
+    {
+        "name": "Double",
+        "description": "Build and invest in custom ETFs",
+        "link": "https://www.ycombinator.com/companies/double-2"
+    },
+    {
+        "name": "Speck",
+        "description": "Livetrace debugging and metrics tracking platform for LLM apps",
+        "link": "https://www.ycombinator.com/companies/speck"
+    },
+    {
+        "name": "OmniAI",
+        "description": "Structuring your unstructured data",
+        "link": "https://www.ycombinator.com/companies/omniai"
+    },
+    {
+        "name": "PromptArmor",
+        "description": "Security and Compliance for AI Agents",
+        "link": "https://www.ycombinator.com/companies/promptarmor"
+    },
+    {
+        "name": "Zaymo",
+        "description": "Interactive email builder for ecommerce brands",
+        "link": "https://www.ycombinator.com/companies/zaymo"
+    },
+    {
+        "name": "Celest",
+        "description": "The Flutter cloud platform",
+        "link": "https://www.ycombinator.com/companies/celest"
+    },
+    {
+        "name": "Lucite",
+        "description": "Automating deliverables for finance professionals. ",
+        "link": "https://www.ycombinator.com/companies/lucite"
+    },
+    {
+        "name": "Tusk",
+        "description": "AI engineer that pushes and tests code",
+        "link": "https://www.ycombinator.com/companies/tusk"
+    },
+    {
+        "name": "Yoneda Labs",
+        "description": "Optimising Chemical Reactions",
+        "link": "https://www.ycombinator.com/companies/yoneda-labs"
+    },
+    {
+        "name": "Topo.io",
+        "description": "The Buyer Engagement platform. ",
+        "link": "https://www.ycombinator.com/companies/topo-io"
+    },
+    {
+        "name": "Greenboard",
+        "description": "'Rippling' for Financial Compliance and Operations ",
+        "link": "https://www.ycombinator.com/companies/greenboard"
+    },
+    {
+        "name": "Artisan AI",
+        "description": "Creating the first human-like digital workers, called Artisans",
+        "link": "https://www.ycombinator.com/companies/artisan-ai"
+    },
+    {
+        "name": "Paradigm",
+        "description": "Your AI intern to automate repetitive tasks.",
+        "link": "https://www.ycombinator.com/companies/paradigm"
+    },
+    {
+        "name": "Assembly",
+        "description": "Code Search for engineering teams ",
+        "link": "https://www.ycombinator.com/companies/assembly-2"
+    },
+    {
+        "name": "Buster",
+        "description": "Enable your customers to chat with their data",
+        "link": "https://www.ycombinator.com/companies/buster"
+    },
+    {
+        "name": "Apriora",
+        "description": "Make the right technical hires faster with your AI interviewer",
+        "link": "https://www.ycombinator.com/companies/apriora"
+    },
+    {
+        "name": "Hemingway",
+        "description": "Automated Patient Scheduling for Dentists",
+        "link": "https://www.ycombinator.com/companies/hemingway"
+    },
+    {
+        "name": "Momentic",
+        "description": "Deploy AI agents to test web applications using natural language.",
+        "link": "https://www.ycombinator.com/companies/momentic"
+    },
+    {
+        "name": "Reducto",
+        "description": "We convert complex documents into chunks for LLMs",
+        "link": "https://www.ycombinator.com/companies/reducto"
+    },
+    {
+        "name": "Vectorview",
+        "description": "Analytics to improve RAG powered LLM products",
+        "link": "https://www.ycombinator.com/companies/vectorview"
+    },
+    {
+        "name": "Precip",
+        "description": "Precision rainfall tracking without gauges",
+        "link": "https://www.ycombinator.com/companies/precip"
+    },
+    {
+        "name": "Tracecat",
+        "description": "The easiest way to retain and monitor your Cloud security logs.",
+        "link": "https://www.ycombinator.com/companies/tracecat"
+    },
+    {
+        "name": "ion design",
+        "description": "We automatically convert Figma designs into clean React code",
+        "link": "https://www.ycombinator.com/companies/ion-design"
+    },
+    {
+        "name": "Duckie",
+        "description": "Your AI Oncall Companion",
+        "link": "https://www.ycombinator.com/companies/duckie"
+    },
+    {
+        "name": "Ubicloud",
+        "description": "Open and portable cloud",
+        "link": "https://www.ycombinator.com/companies/ubicloud"
+    },
+    {
+        "name": "Onboard AI",
+        "description": "Private, secure AI subject-matter expert on any codebase",
+        "link": "https://www.ycombinator.com/companies/onboard-ai"
+    },
+    {
+        "name": "Stitch Technologies",
+        "description": "Turn any react library into drag&drop widgets.",
+        "link": "https://www.ycombinator.com/companies/stitch-technologies"
+    },
+    {
+        "name": "Leya",
+        "description": "An honest AI assistant for lawyers",
+        "link": "https://www.ycombinator.com/companies/leya"
+    },
+    {
+        "name": "OpenPipe",
+        "description": "Turn expensive prompts into cheap fine-tuned models",
+        "link": "https://www.ycombinator.com/companies/openpipe"
+    },
+    {
+        "name": "DryMerge",
+        "description": "Make existing code responsive to external events.",
+        "link": "https://www.ycombinator.com/companies/drymerge"
+    },
+    {
+        "name": "Upsolve AI",
+        "description": "Your turnkey customer-facing analytics solution, powered by AI.",
+        "link": "https://www.ycombinator.com/companies/upsolve-ai"
+    },
+    {
+        "name": "AgentHub",
+        "description": "A no-code platform for automating workflows with AI",
+        "link": "https://www.ycombinator.com/companies/agenthub"
+    },
+    {
+        "name": "Lantern",
+        "description": "PostgreSQL vector database extension to build AI applications",
+        "link": "https://www.ycombinator.com/companies/lantern-2"
+    },
+    {
+        "name": "Danswer",
+        "description": "Open-source Glean",
+        "link": "https://www.ycombinator.com/companies/danswer"
+    },
+    {
+        "name": "Flex",
+        "description": "Stripe for HSA/FSA payments",
+        "link": "https://www.ycombinator.com/companies/flex"
+    },
+    {
+        "name": "Martin",
+        "description": "Your personal voice AI",
+        "link": "https://www.ycombinator.com/companies/martin"
+    },
+    {
+        "name": "Healthtech 1",
+        "description": "Automating repetitive processes in healthcare",
+        "link": "https://www.ycombinator.com/companies/healthtech-1"
+    },
+    {
+        "name": "Feanix Biotechnologies",
+        "description": "Farm Genetics Made Easy - Using DNA and Software",
+        "link": "https://www.ycombinator.com/companies/feanix-biotechnologies"
+    },
+    {
+        "name": "Orbio Earth",
+        "description": "Tracking methane emissions with satellites",
+        "link": "https://www.ycombinator.com/companies/orbio-earth"
+    },
+    {
+        "name": "CodeStory",
+        "description": "CodeStory is an AI powered mod of VSCode",
+        "link": "https://www.ycombinator.com/companies/codestory"
+    },
+    {
+        "name": "CatX",
+        "description": "The digital marketplace for insurance risk ",
+        "link": "https://www.ycombinator.com/companies/catx"
+    },
+    {
+        "name": "Coba",
+        "description": "Dual Currency Accounts For LatAm",
+        "link": "https://www.ycombinator.com/companies/coba"
+    },
+    {
+        "name": "Taylor AI",
+        "description": "Helping data scientists track app-level code changes to their data",
+        "link": "https://www.ycombinator.com/companies/taylor-ai"
+    },
+    {
+        "name": "Tempo Labs",
+        "description": "AI design tool like figma which can edit any react codebase",
+        "link": "https://www.ycombinator.com/companies/tempo-labs"
+    },
+    {
+        "name": "trendup",
+        "description": "ChatGPT for social media",
+        "link": "https://www.ycombinator.com/companies/trendup"
+    },
+    {
+        "name": "autotab",
+        "description": "Build browser agents for real world tasks",
+        "link": "https://www.ycombinator.com/companies/autotab"
+    },
+    {
+        "name": "Flair Health",
+        "description": "Platform for doctors to grow their own holistic primary care practices",
+        "link": "https://www.ycombinator.com/companies/flair-health"
+    },
+    {
+        "name": "Olio Labs",
+        "description": "Combination therapeutics for the world's toughest diseases",
+        "link": "https://www.ycombinator.com/companies/olio-labs"
+    },
+    {
+        "name": "truemetrics",
+        "description": "Helping logistics companies to deliver to their customer\u2019s doorstep.",
+        "link": "https://www.ycombinator.com/companies/truemetrics"
+    },
+    {
+        "name": "Onward",
+        "description": "Intelligent meeting automation for ambitious teams.",
+        "link": "https://www.ycombinator.com/companies/onward"
+    },
+    {
+        "name": "WalletKit",
+        "description": "Developer platform for building web3 apps with no blockchain expertise",
+        "link": "https://www.ycombinator.com/companies/walletkit"
+    },
+    {
+        "name": "Wattson Health",
+        "description": "Software for pharmacies to manage RXs and automate manual workflows",
+        "link": "https://www.ycombinator.com/companies/wattson-health"
+    },
+    {
+        "name": "Constructable",
+        "description": "AI copilot for construction teams",
+        "link": "https://www.ycombinator.com/companies/constructable"
+    },
+    {
+        "name": "Lingtual",
+        "description": "The easiest way to build AI software with no code",
+        "link": "https://www.ycombinator.com/companies/lingtual"
+    },
+    {
+        "name": "Nowadays",
+        "description": "AI co-pilot for corporate event planning",
+        "link": "https://www.ycombinator.com/companies/nowadays"
+    },
+    {
+        "name": "Structured",
+        "description": "AI Developer Tools",
+        "link": "https://www.ycombinator.com/companies/structured"
+    },
+    {
+        "name": "Twine",
+        "description": "AI text message receptionist for SMBs",
+        "link": "https://www.ycombinator.com/companies/twine"
+    },
+    {
+        "name": "Axflow",
+        "description": "TypeScript framework for building production AI applications",
+        "link": "https://www.ycombinator.com/companies/axflow"
+    },
+    {
+        "name": "Simbie Health",
+        "description": "AI powered practice in a box for nurse practitioners in women's health",
+        "link": "https://www.ycombinator.com/companies/simbie-health"
+    },
+    {
+        "name": "Foundation",
+        "description": "Shopify for Homebuilders",
+        "link": "https://www.ycombinator.com/companies/foundation-2"
+    },
+    {
+        "name": "AiSDR",
+        "description": "AI sales prospecting. Replace your SDR with AiSDR",
+        "link": "https://www.ycombinator.com/companies/aisdr"
+    },
+    {
+        "name": "Giga ML",
+        "description": "Platform to train and deploy on-premise LLMs",
+        "link": "https://www.ycombinator.com/companies/giga-ml"
+    },
+    {
+        "name": "Sero AI",
+        "description": "AI-powered moderation platform for Trust and Safety",
+        "link": "https://www.ycombinator.com/companies/sero-ai"
+    },
+    {
+        "name": "Affinity",
+        "description": "A compliance training platform built for regulated industries.",
+        "link": "https://www.ycombinator.com/companies/affinity"
+    },
+    {
+        "name": "FlowiseAI",
+        "description": "Open source Low/No-Code LLM apps builder",
+        "link": "https://www.ycombinator.com/companies/flowiseai"
+    },
+    {
+        "name": "Shadeform",
+        "description": "The GPU Cloud Marketplace",
+        "link": "https://www.ycombinator.com/companies/shadeform"
+    },
+    {
+        "name": "ten.dev",
+        "description": "How developers share knowledge ",
+        "link": "https://www.ycombinator.com/companies/ten-dev"
+    },
+    {
+        "name": "Advent",
+        "description": "Building the next generation of UGC games on Fortnite",
+        "link": "https://www.ycombinator.com/companies/advent"
+    },
+    {
+        "name": "Cargo",
+        "description": "Building the data stack for revenue teams",
+        "link": "https://www.ycombinator.com/companies/cargo"
+    },
+    {
+        "name": "CheqUPI",
+        "description": "India's first UPI wallet for foreign nationals and NRIs",
+        "link": "https://www.ycombinator.com/companies/chequpi"
+    },
+    {
+        "name": "Roame",
+        "description": "Google flights using credit card points and miles",
+        "link": "https://www.ycombinator.com/companies/roame"
+    },
+    {
+        "name": "dili",
+        "description": "Automating due diligence with AI",
+        "link": "https://www.ycombinator.com/companies/dili"
+    },
+    {
+        "name": "Slingshot",
+        "description": "Games with NPCs more fun than real people",
+        "link": "https://www.ycombinator.com/companies/slingshot-2"
+    },
+    {
+        "name": "Trayd",
+        "description": "A construction payroll platform designed for same-day pay.",
+        "link": "https://www.ycombinator.com/companies/trayd"
+    },
+    {
+        "name": "Line.Build",
+        "description": "Incentives and financing for energy efficiency upgrades",
+        "link": "https://www.ycombinator.com/companies/line-build"
+    },
+    {
+        "name": "Cair Health",
+        "description": "Predictive analytics and automation for medical claims",
+        "link": "https://www.ycombinator.com/companies/cair-health"
+    },
+    {
+        "name": "ParadeDB",
+        "description": "PostgreSQL for Search",
+        "link": "https://www.ycombinator.com/companies/paradedb"
+    },
+    {
+        "name": "Eden Care",
+        "description": "Digital health insurance for employers in Africa",
+        "link": "https://www.ycombinator.com/companies/eden-care"
+    },
+    {
+        "name": "Quill AI",
+        "description": "Automating the job of a financial analyst.",
+        "link": "https://www.ycombinator.com/companies/quill-ai"
+    },
+    {
+        "name": "Strada",
+        "description": "Code-first workflow automation platform",
+        "link": "https://www.ycombinator.com/companies/strada"
+    },
+    {
+        "name": "AgentsForce",
+        "description": "AI support agents to solve the tickets that reach humans",
+        "link": "https://www.ycombinator.com/companies/agentsforce"
+    },
+    {
+        "name": "Smobi",
+        "description": "Zillow for SMB Sales",
+        "link": "https://www.ycombinator.com/companies/smobi"
+    },
+    {
+        "name": "Tiptap",
+        "description": "Developer toolkit for building collaborative apps.",
+        "link": "https://www.ycombinator.com/companies/tiptap"
+    },
+    {
+        "name": "RecipeUI",
+        "description": "The open source Postman alternative.",
+        "link": "https://www.ycombinator.com/companies/recipeui"
+    },
+    {
+        "name": "Fiber AI",
+        "description": "We automate prospecting & outbound marketing for enterprises.",
+        "link": "https://www.ycombinator.com/companies/fiber-ai"
+    },
+    {
+        "name": "Monitaur",
+        "description": "Datadog for Web3",
+        "link": "https://www.ycombinator.com/companies/monitaur"
+    },
+    {
+        "name": "Certainly Health",
+        "description": "Marketplace to book doctors and avoid surprise bills",
+        "link": "https://www.ycombinator.com/companies/certainly-health"
+    },
+    {
+        "name": "Cedalio",
+        "description": "The easiest way to store auditable and traceable data",
+        "link": "https://www.ycombinator.com/companies/cedalio"
+    },
+    {
+        "name": "Happyrobot",
+        "description": "AI agents that speak on the phone",
+        "link": "https://www.ycombinator.com/companies/happyrobot"
+    },
+    {
+        "name": "Pure",
+        "description": "Marketplace for Rare Coins & Precious Metals",
+        "link": "https://www.ycombinator.com/companies/pure"
+    },
+    {
+        "name": "Nanograb",
+        "description": "AI-generated binders for targeted drug delivery",
+        "link": "https://www.ycombinator.com/companies/nanograb"
+    },
+    {
+        "name": "Elythea",
+        "description": "ML to catch and prevent pregnancy complications ",
+        "link": "https://www.ycombinator.com/companies/elythea"
+    },
+    {
+        "name": "Movley",
+        "description": "Rippling for supply chain.",
+        "link": "https://www.ycombinator.com/companies/movley"
+    },
+    {
+        "name": "Sant\u00e9",
+        "description": "All-in-one POS for liquor stores",
+        "link": "https://www.ycombinator.com/companies/sante"
+    },
+    {
+        "name": "Langdock",
+        "description": "The AI platform for team productivity",
+        "link": "https://www.ycombinator.com/companies/langdock"
+    },
+    {
+        "name": "Inventive AI",
+        "description": "AI-powered RFP & security questionnaire response platform",
+        "link": "https://www.ycombinator.com/companies/inventive-ai"
+    },
+    {
+        "name": "devmark",
+        "description": "Developer marketing through open source sponsorship",
+        "link": "https://www.ycombinator.com/companies/devmark"
+    },
+    {
+        "name": "Fragment",
+        "description": "Add human supervision to automated processes",
+        "link": "https://www.ycombinator.com/companies/fragment"
+    },
+    {
+        "name": "Raz",
+        "description": "AI-Native Qualtrics",
+        "link": "https://www.ycombinator.com/companies/raz"
+    },
+    {
+        "name": "sudocode",
+        "description": "Turn design docs directly into code. ",
+        "link": "https://www.ycombinator.com/companies/sudocode"
+    },
+    {
+        "name": "Sweep",
+        "description": "AI-powered Python junior developer for software teams",
+        "link": "https://www.ycombinator.com/companies/sweep"
+    },
+    {
+        "name": "Silimate",
+        "description": "The co-pilot for chip designers",
+        "link": "https://www.ycombinator.com/companies/silimate"
+    },
+    {
+        "name": "Andromeda Surgical",
+        "description": "Autonomous surgical robots",
+        "link": "https://www.ycombinator.com/companies/andromeda-surgical"
+    },
+    {
+        "name": "ProdTrace",
+        "description": "The out-of-the-box PLM+PDM for lean hardware teams",
+        "link": "https://www.ycombinator.com/companies/prodtrace"
+    },
+    {
+        "name": "Inari",
+        "description": "AI hub for automating customer feedback analysis and product insights",
+        "link": "https://www.ycombinator.com/companies/inari"
+    },
+    {
+        "name": "Roundtable",
+        "description": "Infrastructure for Market Research",
+        "link": "https://www.ycombinator.com/companies/roundtable"
+    },
+    {
+        "name": "Chatter",
+        "description": "Dead simple LLM testing and iteration",
+        "link": "https://www.ycombinator.com/companies/chatter"
+    },
+    {
+        "name": "Trench",
+        "description": "Open source fraud prevention platform for marketplaces",
+        "link": "https://www.ycombinator.com/companies/trench"
+    },
+    {
+        "name": "Envelope",
+        "description": "We remove the friction of managing family finances.",
+        "link": "https://www.ycombinator.com/companies/envelope"
+    },
+    {
+        "name": "VectorShift",
+        "description": "Connecting AI workflows to end-users",
+        "link": "https://www.ycombinator.com/companies/vectorshift"
+    },
+    {
+        "name": "SafetyKit",
+        "description": "AI-Powered Trust and Safety Automation",
+        "link": "https://www.ycombinator.com/companies/safetykit"
+    },
+    {
+        "name": "Baserun",
+        "description": "A testing and observability platform for LLM apps",
+        "link": "https://www.ycombinator.com/companies/baserun"
+    },
+    {
+        "name": "Automorphic",
+        "description": "Infuse knowledge into language models with just 10 samples",
+        "link": "https://www.ycombinator.com/companies/automorphic"
+    },
+    {
+        "name": "Glaze",
+        "description": "Convert your social media fashion inspo into a dream shopping list",
+        "link": "https://www.ycombinator.com/companies/glaze"
+    },
+    {
+        "name": "Sola",
+        "description": "Copilot for Robotic Process Automation",
+        "link": "https://www.ycombinator.com/companies/sola"
+    },
+    {
+        "name": "Vango AI",
+        "description": "Development platform that makes it 10x easier to improve visual models",
+        "link": "https://www.ycombinator.com/companies/vango-ai"
+    },
+    {
+        "name": "Inlet",
+        "description": "AI-powered IDE for integration engineers",
+        "link": "https://www.ycombinator.com/companies/inlet-2"
+    },
+    {
+        "name": "Converge",
+        "description": "Segment for Ecommerce",
+        "link": "https://www.ycombinator.com/companies/converge"
+    },
+    {
+        "name": "Flint",
+        "description": "AI for schools",
+        "link": "https://www.ycombinator.com/companies/flint-2"
+    },
+    {
+        "name": "CambioML",
+        "description": "RLHF finetuning and data curation in one unified interface.",
+        "link": "https://www.ycombinator.com/companies/cambioml"
+    },
+    {
+        "name": "Osium AI",
+        "description": "Speed up materials innovation with Artificial Intelligence",
+        "link": "https://www.ycombinator.com/companies/osium-ai"
+    },
+    {
+        "name": "Slicker",
+        "description": "AI-powered money movement platform for enterprises",
+        "link": "https://www.ycombinator.com/companies/slicker"
+    },
+    {
+        "name": "Khoj",
+        "description": "Open-source AI assistant that knows you",
+        "link": "https://www.ycombinator.com/companies/khoj"
+    },
+    {
+        "name": "VaultPay",
+        "description": "Enabling financial institutions to transform local businesses into\u2026",
+        "link": "https://www.ycombinator.com/companies/vaultpay"
+    },
+    {
+        "name": "Onnix",
+        "description": "AI Co-Pilot for Bankers",
+        "link": "https://www.ycombinator.com/companies/onnix"
+    },
+    {
+        "name": "gleam",
+        "description": "Platform for brokers to offer self-funded health insurance plans",
+        "link": "https://www.ycombinator.com/companies/gleam"
+    },
+    {
+        "name": "Kobalt Labs",
+        "description": "Modern data privacy for generative AI.",
+        "link": "https://www.ycombinator.com/companies/kobalt-labs"
+    },
+    {
+        "name": "Studdy",
+        "description": "An AI math tutor for every student",
+        "link": "https://www.ycombinator.com/companies/studdy"
+    },
+    {
+        "name": "Trainy",
+        "description": "Optimize ML infrastructure for training",
+        "link": "https://www.ycombinator.com/companies/trainy"
+    },
+    {
+        "name": "MantleBio",
+        "description": "Snowflake for Biotech",
+        "link": "https://www.ycombinator.com/companies/mantlebio"
+    },
+    {
+        "name": "Pincites",
+        "description": "Close deals faster with AI for contract negotiation",
+        "link": "https://www.ycombinator.com/companies/pincites"
+    },
+    {
+        "name": "Apoxy",
+        "description": "The Proxy Platform",
+        "link": "https://www.ycombinator.com/companies/apoxy"
+    },
+    {
+        "name": "sizeless",
+        "description": "Make ML models reproducible and safe.",
+        "link": "https://www.ycombinator.com/companies/sizeless"
+    },
+    {
+        "name": "Quack AI",
+        "description": "Make collaborative software development scale efficiently",
+        "link": "https://www.ycombinator.com/companies/quack-ai"
+    },
+    {
+        "name": "Continue",
+        "description": "The easiest way to code with any LLM",
+        "link": "https://www.ycombinator.com/companies/continue"
+    },
+    {
+        "name": "Letter AI",
+        "description": "Content & training for reps to close deals, built 10x faster with AI",
+        "link": "https://www.ycombinator.com/companies/letter-ai"
+    },
+    {
+        "name": "Guac",
+        "description": "AI-powered demand forecasting for grocery",
+        "link": "https://www.ycombinator.com/companies/guac"
+    },
+    {
+        "name": "Casehopper",
+        "description": "AI-assisted legal drafting",
+        "link": "https://www.ycombinator.com/companies/casehopper"
+    },
+    {
+        "name": "Glade",
+        "description": "The next League of Legends",
+        "link": "https://www.ycombinator.com/companies/glade"
+    },
+    {
+        "name": "LifestyleRx",
+        "description": "Virtual Care for Type 2 Diabetes Reversal",
+        "link": "https://www.ycombinator.com/companies/lifestylerx"
+    },
+    {
+        "name": "Empirical Health",
+        "description": "Proactive primary care, scaled with AI",
+        "link": "https://www.ycombinator.com/companies/empirical-health"
+    },
+    {
+        "name": "Fortuna Health",
+        "description": "TurboTax for Medicaid",
+        "link": "https://www.ycombinator.com/companies/fortuna-health"
+    },
+    {
+        "name": "Aglide",
+        "description": "Access management and SSO for any app, without relying on SAML.",
+        "link": "https://www.ycombinator.com/companies/aglide"
+    },
+    {
+        "name": "Respaid",
+        "description": "AI Payment solution for small late payments",
+        "link": "https://www.ycombinator.com/companies/respaid"
+    },
+    {
+        "name": "Vizly",
+        "description": "AI-powered Data Analysis for Enterprise",
+        "link": "https://www.ycombinator.com/companies/vizly"
+    },
+    {
+        "name": "Haven",
+        "description": "Fine-Tune and Deploy Open Source LLMs",
+        "link": "https://www.ycombinator.com/companies/haven-3"
+    },
+    {
+        "name": "Greenlite",
+        "description": "An AI compliance team for every fintech and bank",
+        "link": "https://www.ycombinator.com/companies/greenlite"
+    },
+    {
+        "name": "MediSearch",
+        "description": "Search engine for trustworthy medical information.",
+        "link": "https://www.ycombinator.com/companies/medisearch"
+    },
+    {
+        "name": "Metalware",
+        "description": "Copilot for firmware engineers",
+        "link": "https://www.ycombinator.com/companies/metalware"
+    },
+    {
+        "name": "Upstream",
+        "description": "An email client designed for team collaboration",
+        "link": "https://www.ycombinator.com/companies/upstream"
+    },
+    {
+        "name": "Maven Bio",
+        "description": "Resolve complex support requests in half the time",
+        "link": "https://www.ycombinator.com/companies/maven-bio"
+    },
+    {
+        "name": "Egress",
+        "description": "AI layer for company data",
+        "link": "https://www.ycombinator.com/companies/egress"
+    },
+    {
+        "name": "Surface Labs",
+        "description": "AI-Powered Forms that Drive Conversions",
+        "link": "https://www.ycombinator.com/companies/surface-labs"
+    },
+    {
+        "name": "Unhaze",
+        "description": "The right leads at the right time for B2B sales",
+        "link": "https://www.ycombinator.com/companies/unhaze"
+    },
+    {
+        "name": "CandorIQ",
+        "description": "Headcount & Compensation Management",
+        "link": "https://www.ycombinator.com/companies/candoriq"
+    },
+    {
+        "name": "refine",
+        "description": "Open-source Retool for enterprise",
+        "link": "https://www.ycombinator.com/companies/refine"
+    },
+    {
+        "name": "Sidenote",
+        "description": "Meeting follow-up, automated",
+        "link": "https://www.ycombinator.com/companies/sidenote"
+    },
+    {
+        "name": "Epsilla",
+        "description": "A 10x Faster Open Source Vector Database",
+        "link": "https://www.ycombinator.com/companies/epsilla"
+    },
+    {
+        "name": "Hidden Hand",
+        "description": "AI paralegal for contingency law firms",
+        "link": "https://www.ycombinator.com/companies/hidden-hand"
+    },
+    {
+        "name": "GovernGPT",
+        "description": "Compliance 'Grammarly'",
+        "link": "https://www.ycombinator.com/companies/governgpt"
+    },
+    {
+        "name": "Neum AI",
+        "description": "Open-source RAG framework optimized for large-scale and real-time\u2026",
+        "link": "https://www.ycombinator.com/companies/neum-ai"
+    },
+    {
+        "name": "Cleancard",
+        "description": "Making cancer screening as easy as a pregnancy test",
+        "link": "https://www.ycombinator.com/companies/cleancard"
+    },
+    {
+        "name": "Decoda Health",
+        "description": "AI Copilots for Healthcare Administration",
+        "link": "https://www.ycombinator.com/companies/decoda-health"
+    },
+    {
+        "name": "Skyvern",
+        "description": "AI Agents to automate browser workflows",
+        "link": "https://www.ycombinator.com/companies/skyvern"
+    },
+    {
+        "name": "Cardinal Gray",
+        "description": "Automated lien & title for auto lenders.",
+        "link": "https://www.ycombinator.com/companies/cardinal-gray"
+    },
+    {
+        "name": "Telophase",
+        "description": "Making it easy to partition cloud infrastructure",
+        "link": "https://www.ycombinator.com/companies/telophase"
+    },
+    {
+        "name": "Anneal",
+        "description": "TikTok killer with generative AI tools to create/share video content",
+        "link": "https://www.ycombinator.com/companies/anneal"
+    },
+    {
+        "name": "Transformity",
+        "description": "Point-of-sale & Vertical SaaS for the $75B Liquor Industry",
+        "link": "https://www.ycombinator.com/companies/transformity"
+    },
+    {
+        "name": "Repaint",
+        "description": "A visual design tool like Figma, but it makes real websites",
+        "link": "https://www.ycombinator.com/companies/repaint"
+    },
+    {
+        "name": "Chow Central Inc",
+        "description": "Asset Light Restaurant Chains for Africa",
+        "link": "https://www.ycombinator.com/companies/chow-central-inc"
+    },
+    {
+        "name": "FleetWorks",
+        "description": "Automating the 2B phone calls and emails that keep freight moving",
+        "link": "https://www.ycombinator.com/companies/fleetworks"
+    },
+    {
+        "name": "Latentspace",
+        "description": "Streamline work with the help of AI-Powered Assistants",
+        "link": "https://www.ycombinator.com/companies/latentspace"
+    },
+    {
+        "name": "Health Harbor",
+        "description": "Using generative AI to call insurance for healthcare clinics",
+        "link": "https://www.ycombinator.com/companies/health-harbor"
+    },
+    {
+        "name": "Briefer",
+        "description": "The collaborative data platform.",
+        "link": "https://www.ycombinator.com/companies/briefer"
+    },
+    {
+        "name": "Shasta Health",
+        "description": "AI platform for physical therapists to go independent",
+        "link": "https://www.ycombinator.com/companies/shasta-health"
+    },
+    {
+        "name": "Hegel AI",
+        "description": "Open source tools for developing generative AI applications",
+        "link": "https://www.ycombinator.com/companies/hegel-ai"
+    },
+    {
+        "name": "Outset",
+        "description": "AI-powered user interviews",
+        "link": "https://www.ycombinator.com/companies/outset"
+    },
+    {
+        "name": "Serra",
+        "description": "Tableau for data infrastructure.",
+        "link": "https://www.ycombinator.com/companies/serra"
+    },
+    {
+        "name": "Corgea",
+        "description": "Fix vulnerable code using AI",
+        "link": "https://www.ycombinator.com/companies/corgea"
+    },
+    {
+        "name": "Terminal",
+        "description": "Plaid for Telematics Data in Commercial Trucking",
+        "link": "https://www.ycombinator.com/companies/terminal"
+    },
+    {
+        "name": "MICSI",
+        "description": "Higher resolution MRI with faster scan times.",
+        "link": "https://www.ycombinator.com/companies/micsi"
+    },
+    {
+        "name": "Martola",
+        "description": "Retailers Save Time and Money on Procurement with Martola",
+        "link": "https://www.ycombinator.com/companies/martola"
+    },
+    {
+        "name": "Arcimus",
+        "description": "AI Automated Insurance Premium Audits",
+        "link": "https://www.ycombinator.com/companies/arcimus"
+    },
+    {
+        "name": "Docsum",
+        "description": "AI contract review & negotiation",
+        "link": "https://www.ycombinator.com/companies/docsum"
+    },
+    {
+        "name": "Obento Health",
+        "description": "Patient Engagement Platform That Pays",
+        "link": "https://www.ycombinator.com/companies/obento-health"
+    },
+    {
+        "name": "Kite",
+        "description": "Apple-style product videos in minutes",
+        "link": "https://www.ycombinator.com/companies/kite"
+    },
+    {
+        "name": "Bronco AI",
+        "description": "The Modern Industrial Operating Stack",
+        "link": "https://www.ycombinator.com/companies/bronco-ai"
+    },
+    {
+        "name": "Agentive",
+        "description": "AI-powered auditing platform",
+        "link": "https://www.ycombinator.com/companies/agentive"
+    },
+    {
+        "name": "order.link",
+        "description": "Helping manufacturers process customer inquiries 10x faster",
+        "link": "https://www.ycombinator.com/companies/order-link"
+    },
+    {
+        "name": "Parea",
+        "description": "DataDog for LLM applications",
+        "link": "https://www.ycombinator.com/companies/parea"
+    },
+    {
+        "name": "Campfire",
+        "description": "A modern version of NetSuite",
+        "link": "https://www.ycombinator.com/companies/campfire-2"
+    },
+    {
+        "name": "Alguna",
+        "description": "Modern SaaS Pricing, Quoting & Billing Platform",
+        "link": "https://www.ycombinator.com/companies/alguna"
+    },
+    {
+        "name": "SID",
+        "description": "Connect Google, Notion & Email Data to LLMs",
+        "link": "https://www.ycombinator.com/companies/sid"
+    },
+    {
+        "name": "Capi Money",
+        "description": "Helping businesses in Africa pay their international suppliers",
+        "link": "https://www.ycombinator.com/companies/capi-money"
+    },
+    {
+        "name": "Cerelyze",
+        "description": "Build computer vision models without labelling images",
+        "link": "https://www.ycombinator.com/companies/cerelyze"
+    },
+    {
+        "name": "Spine AI",
+        "description": "Helping companies build AI copilots in minutes",
+        "link": "https://www.ycombinator.com/companies/spine-ai"
+    },
+    {
+        "name": "DSensei",
+        "description": "Identify the root cause of KPI changes in minutes",
+        "link": "https://www.ycombinator.com/companies/dsensei"
+    },
+    {
+        "name": "Subsets",
+        "description": "The AI retention co-pilot for consumer subscription businesses.",
+        "link": "https://www.ycombinator.com/companies/subsets"
+    },
+    {
+        "name": "Mira",
+        "description": "AI Agent for React based frontend teams",
+        "link": "https://www.ycombinator.com/companies/mira"
+    },
+    {
+        "name": "Magik",
+        "description": "AI-powered Sales Ops Team",
+        "link": "https://www.ycombinator.com/companies/magik-2"
+    },
+    {
+        "name": "Revamp",
+        "description": "AI-Powered Customer Segmentation for eCommerce",
+        "link": "https://www.ycombinator.com/companies/revamp"
+    },
+    {
+        "name": "DataShare",
+        "description": "Embed charts, dashboards and exports in your app",
+        "link": "https://www.ycombinator.com/companies/datashare"
+    },
+    {
+        "name": "Airgoods",
+        "description": "Faire for specialty food and beverage stores",
+        "link": "https://www.ycombinator.com/companies/airgoods"
+    },
+    {
+        "name": "Talc",
+        "description": "LLM staging environments to help businesses launch AI product faster",
+        "link": "https://www.ycombinator.com/companies/talc"
+    },
+    {
+        "name": "Solve Intelligence",
+        "description": "We use AI to help attorneys write patents.",
+        "link": "https://www.ycombinator.com/companies/solve-intelligence"
+    },
+    {
+        "name": "askLio",
+        "description": "AI-Copilot for procurement teams at large enterprises",
+        "link": "https://www.ycombinator.com/companies/asklio"
+    },
+    {
+        "name": "Craftwork",
+        "description": "Digital-native home painting franchise",
+        "link": "https://www.ycombinator.com/companies/craftwork"
+    },
+    {
+        "name": "Helios Climate Industries",
+        "description": "Tech-enabled heat pump contractor that cuts costs by 60%",
+        "link": "https://www.ycombinator.com/companies/helios-climate-industries"
+    },
+    {
+        "name": "Fynt",
+        "description": "The AI-powered financial controller",
+        "link": "https://www.ycombinator.com/companies/fynt"
+    },
+    {
+        "name": "Every, Inc.",
+        "description": "Banking + Payroll/Benefits + Bookkeeping + Tax in one place",
+        "link": "https://www.ycombinator.com/companies/every-inc"
+    },
+    {
+        "name": "Contour",
+        "description": "Automated QA Copilot",
+        "link": "https://www.ycombinator.com/companies/contour"
+    },
+    {
+        "name": "atla",
+        "description": "Helpful and honest AI for high stakes decisions",
+        "link": "https://www.ycombinator.com/companies/atla"
+    },
+    {
+        "name": "Humanlike",
+        "description": "Replace your call center with voice bots that sound human",
+        "link": "https://www.ycombinator.com/companies/humanlike"
+    },
+    {
+        "name": "Cedana",
+        "description": "Save, move and resume compute jobs in real-time",
+        "link": "https://www.ycombinator.com/companies/cedana"
+    },
+    {
+        "name": "Cascading AI",
+        "description": "AI Assistant for Loan Officers",
+        "link": "https://www.ycombinator.com/companies/cascading-ai"
+    },
+    {
+        "name": "Zelos Cloud",
+        "description": "The First Cloud Platform for Firmware Development and Testing",
+        "link": "https://www.ycombinator.com/companies/zelos-cloud"
+    },
+    {
+        "name": "Pandan",
+        "description": "Automating health insurance operations",
+        "link": "https://www.ycombinator.com/companies/pandan"
+    },
+    {
+        "name": "PropRise",
+        "description": "Automating commercial real estate data collection",
+        "link": "https://www.ycombinator.com/companies/proprise"
+    },
+    {
+        "name": "Pointhound",
+        "description": "Earn and redeem credit card points for free flights",
+        "link": "https://www.ycombinator.com/companies/pointhound"
+    },
+    {
+        "name": "Intelliga Voice",
+        "description": "The developer-first platform for AI phone calls",
+        "link": "https://www.ycombinator.com/companies/intelliga-voice"
+    },
+    {
+        "name": "Sohar Health",
+        "description": "AI-driven clearing house for behavioral health companies",
+        "link": "https://www.ycombinator.com/companies/sohar-health"
+    },
+    {
+        "name": "Remy Security",
+        "description": "Product security reviews automated with LLMs.",
+        "link": "https://www.ycombinator.com/companies/remy-security"
+    },
+    {
+        "name": "Sweetspot",
+        "description": "AI-powered search engine for government contracts.",
+        "link": "https://www.ycombinator.com/companies/sweetspot"
+    },
+    {
+        "name": "Magic Loops",
+        "description": "Program computers with natural language",
+        "link": "https://www.ycombinator.com/companies/magic-loops"
+    },
+    {
+        "name": "Ohmic Biosciences",
+        "description": "Genetically engineering plants for disease resistance.",
+        "link": "https://www.ycombinator.com/companies/ohmic-biosciences"
+    },
+    {
+        "name": "Stellar Sleep",
+        "description": "We help people with chronic insomnia sleep better, using psychology.",
+        "link": "https://www.ycombinator.com/companies/stellar-sleep"
+    },
+    {
+        "name": "Infobot",
+        "description": "The AI generated news network",
+        "link": "https://www.ycombinator.com/companies/infobot"
+    },
+    {
+        "name": "Linc.",
+        "description": "AI Copilot for Shippers, Carriers and Brokers",
+        "link": "https://www.ycombinator.com/companies/linc"
+    },
+    {
+        "name": "Watto AI",
+        "description": "AI-powered McKinsey-quality reports in seconds",
+        "link": "https://www.ycombinator.com/companies/watto-ai"
+    },
+    {
+        "name": "Dioxus Labs",
+        "description": "Web, Desktop, and Mobile apps with one codebase",
+        "link": "https://www.ycombinator.com/companies/dioxus-labs"
+    },
+    {
+        "name": "Hyperbound",
+        "description": "Sales call roleplay with realistic conversational AI buyers",
+        "link": "https://www.ycombinator.com/companies/hyperbound"
+    },
+    {
+        "name": "Deasie",
+        "description": "Data governance for language models in the enterprise ",
+        "link": "https://www.ycombinator.com/companies/deasie"
+    },
+    {
+        "name": "Accend",
+        "description": "Accend accelerates onboarding and KYC reviews for fintechs and banks",
+        "link": "https://www.ycombinator.com/companies/accend"
+    },
+    {
+        "name": "Elyos Energy",
+        "description": "The platform for energy flexibility and demand response",
+        "link": "https://www.ycombinator.com/companies/elyos-energy"
+    },
+    {
+        "name": "Mano AI",
+        "description": "An end-to-end LLM platform hosted in your cloud",
+        "link": "https://www.ycombinator.com/companies/mano-ai"
+    },
+    {
+        "name": "Metoro",
+        "description": "The AI-powered production debugger for software engineers",
+        "link": "https://www.ycombinator.com/companies/metoro"
+    },
+    {
+        "name": "Xeol",
+        "description": "Software security from code to deploy",
+        "link": "https://www.ycombinator.com/companies/xeol"
+    },
+    {
+        "name": "Twenty",
+        "description": "Open Source CRM",
+        "link": "https://www.ycombinator.com/companies/twenty"
+    },
+    {
+        "name": "Synaptiq",
+        "description": "Synaptiq \ud83e\udde0 AI-Powered Training for Doctors",
+        "link": "https://www.ycombinator.com/companies/synaptiq"
+    },
+    {
+        "name": "Nectar",
+        "description": "Collecting companies' carbon emissions data",
+        "link": "https://www.ycombinator.com/companies/nectar"
+    },
+    {
+        "name": "Reworkd AI",
+        "description": "AI-Powered Web Data Extraction Platform",
+        "link": "https://www.ycombinator.com/companies/reworkd-ai"
+    },
+    {
+        "name": "Leafpress",
+        "description": "We help large property managers collect and report carbon emissions.",
+        "link": "https://www.ycombinator.com/companies/leafpress"
+    },
+    {
+        "name": "Kino AI",
+        "description": "Kino automatically organizes footage to make video editing faster. ",
+        "link": "https://www.ycombinator.com/companies/kino-ai"
+    },
+    {
+        "name": "kapa.ai",
+        "description": "ChatGPT for developer-facing products ",
+        "link": "https://www.ycombinator.com/companies/kapa-ai"
+    },
+    {
+        "name": "Tremor",
+        "description": "Webflow for dashboards",
+        "link": "https://www.ycombinator.com/companies/tremor"
+    },
+    {
+        "name": "PeerDB",
+        "description": "Fast, native ETL for Postgres \ud83d\udc18 \ud83d\ude80",
+        "link": "https://www.ycombinator.com/companies/peerdb"
+    },
+    {
+        "name": "Artie",
+        "description": "Software that streams data from databases to warehouses in real-time",
+        "link": "https://www.ycombinator.com/companies/artie"
+    },
+    {
+        "name": "HyLight",
+        "description": "Small unmanned hydrogen airships for long range monitoring",
+        "link": "https://www.ycombinator.com/companies/hylight"
+    },
+    {
+        "name": "HockeyStack",
+        "description": "The operating system for inbound B2B revenue",
+        "link": "https://www.ycombinator.com/companies/hockeystack"
+    },
+    {
+        "name": "Can of Soup",
+        "description": "AI photos of you and your friends",
+        "link": "https://www.ycombinator.com/companies/can-of-soup"
+    },
+    {
+        "name": "Pando Bioscience",
+        "description": "GenAI-driven biological system design for therapeutics",
+        "link": "https://www.ycombinator.com/companies/pando-bioscience"
+    },
+    {
+        "name": "Apollo Group",
+        "description": "Managed marketplace for back-office services",
+        "link": "https://www.ycombinator.com/companies/apollo-group"
+    },
+    {
+        "name": "Vaero",
+        "description": "Fivetran for log data",
+        "link": "https://www.ycombinator.com/companies/vaero"
+    },
+    {
+        "name": "Yuma",
+        "description": "Automating Ecommerce Customer Service",
+        "link": "https://www.ycombinator.com/companies/yuma"
+    },
+    {
+        "name": "Pierre",
+        "description": "Building a better github",
+        "link": "https://www.ycombinator.com/companies/pierre"
+    },
+    {
+        "name": "moonrepo",
+        "description": "Open source build tool for monorepos and large codebases",
+        "link": "https://www.ycombinator.com/companies/moonrepo"
+    },
+    {
+        "name": "Automat",
+        "description": "AI enabled RPA using ChatGPT and computer vision",
+        "link": "https://www.ycombinator.com/companies/automat"
+    },
+    {
+        "name": "SpecCheck",
+        "description": "Unifying how the optical industry does business.",
+        "link": "https://www.ycombinator.com/companies/speccheck"
+    },
+    {
+        "name": "SpeedyBrand",
+        "description": "Generative-AI powered Marketing Content for SMBs",
+        "link": "https://www.ycombinator.com/companies/speedybrand"
+    },
+    {
+        "name": "Finta",
+        "description": "Accounting Platform for Startups",
+        "link": "https://www.ycombinator.com/companies/finta"
+    },
+    {
+        "name": "BerriAI",
+        "description": "Call every LLM API like it's OpenAI [100+ LLMs]",
+        "link": "https://www.ycombinator.com/companies/berriai"
+    },
+    {
+        "name": "Cercli",
+        "description": "Rippling for Middle East & North Africa",
+        "link": "https://www.ycombinator.com/companies/cercli"
+    },
+    {
+        "name": "Theya",
+        "description": "The world's simplest Bitcoin self-custody solution",
+        "link": "https://www.ycombinator.com/companies/theya"
+    },
+    {
+        "name": "Upfront",
+        "description": "Turning rebates into instantly lower prices",
+        "link": "https://www.ycombinator.com/companies/upfront"
+    },
+    {
+        "name": "Warp",
+        "description": "Payroll and Compliance for Startups",
+        "link": "https://www.ycombinator.com/companies/warp"
+    },
+    {
+        "name": "Second",
+        "description": "Automated codebase modernization for enterprise",
+        "link": "https://www.ycombinator.com/companies/second"
+    },
+    {
+        "name": "Atri Labs",
+        "description": "Open-source web framework for Python developers",
+        "link": "https://www.ycombinator.com/companies/atri-labs"
+    },
+    {
+        "name": "Vendora",
+        "description": "Ecommerce Enablement for the $1T Grocery Industry",
+        "link": "https://www.ycombinator.com/companies/vendora"
+    },
+    {
+        "name": "Lightski",
+        "description": "Embeddable Document Uploads",
+        "link": "https://www.ycombinator.com/companies/lightski"
+    },
+    {
+        "name": "Type",
+        "description": "The AI-first document editor.",
+        "link": "https://www.ycombinator.com/companies/type"
+    },
+    {
+        "name": "Meru",
+        "description": "Answer Every Question with Retrieval Augmented Generation.",
+        "link": "https://www.ycombinator.com/companies/meru"
+    },
+    {
+        "name": "Persana AI",
+        "description": "Intelligent sales copilot powered by fine tuned models",
+        "link": "https://www.ycombinator.com/companies/persana-ai"
+    },
+    {
+        "name": "Serial",
+        "description": "Root cause manufacturing issues in seconds",
+        "link": "https://www.ycombinator.com/companies/serial"
+    },
+    {
+        "name": "Kyber",
+        "description": "Automating the Insurance Industry with LLMs",
+        "link": "https://www.ycombinator.com/companies/kyber"
+    },
+    {
+        "name": "Escape",
+        "description": "Business Logic Security Testing for Developers & Security Teams",
+        "link": "https://www.ycombinator.com/companies/escape"
+    },
+    {
+        "name": "Keeling Labs",
+        "description": "We optimize how large batteries in the grid buy & sell energy",
+        "link": "https://www.ycombinator.com/companies/keeling-labs"
+    },
+    {
+        "name": "Modulari-T",
+        "description": "We teach your immune system to attack and cure cancer",
+        "link": "https://www.ycombinator.com/companies/modulari-t"
+    },
+    {
+        "name": "Koala Ops",
+        "description": "A platform for developing microservices on Kubernetes",
+        "link": "https://www.ycombinator.com/companies/koala-ops"
+    },
+    {
+        "name": "Metal",
+        "description": "AI Accelerated Deal Flow and Portfolio Intelligence",
+        "link": "https://www.ycombinator.com/companies/metal"
+    },
+    {
+        "name": "Texel.ai",
+        "description": "Run AI pipelines 10x faster",
+        "link": "https://www.ycombinator.com/companies/texel-ai"
+    },
+    {
+        "name": "Vector",
+        "description": "We turn your company's network into pipeline. ",
+        "link": "https://www.ycombinator.com/companies/vector"
+    },
+    {
+        "name": "Pier",
+        "description": "Stripe for Credit - End-to-end credit infra via API",
+        "link": "https://www.ycombinator.com/companies/pier"
+    },
+    {
+        "name": "AiFlow",
+        "description": "CRM Search & Data Augmentation via LLMs for Private Equity Firms",
+        "link": "https://www.ycombinator.com/companies/aiflow"
+    },
+    {
+        "name": "Finni Health",
+        "description": "Empowering Autism Care Providers to Go Independent",
+        "link": "https://www.ycombinator.com/companies/finni-health"
+    },
+    {
+        "name": "Invitris",
+        "description": "Creating new protein-based drugs at scale",
+        "link": "https://www.ycombinator.com/companies/invitris"
+    },
+    {
+        "name": "Adventris Pharmaceuticals",
+        "description": "Adventris makes cancer vaccines",
+        "link": "https://www.ycombinator.com/companies/adventris-pharmaceuticals"
+    },
+    {
+        "name": "highlight.io",
+        "description": "The open source, fullstack monitoring platform: stop guessing why\u2026",
+        "link": "https://www.ycombinator.com/companies/highlight-io"
+    },
+    {
+        "name": "Untether Labs",
+        "description": "Scheduling software for digital health clinics to do more with less.",
+        "link": "https://www.ycombinator.com/companies/untether-labs"
+    },
+    {
+        "name": "Luca",
+        "description": "The Pricing Co-Pilot for Retail Operators.",
+        "link": "https://www.ycombinator.com/companies/luca"
+    },
+    {
+        "name": "Edge",
+        "description": "The ultimate patent assistant.",
+        "link": "https://www.ycombinator.com/companies/edge"
+    },
+    {
+        "name": "BidSight",
+        "description": "AI-powered cost management for real estate developers.",
+        "link": "https://www.ycombinator.com/companies/bidsight"
+    },
+    {
+        "name": "Fabius",
+        "description": "AI to improve Sales Calls",
+        "link": "https://www.ycombinator.com/companies/fabius"
+    },
+    {
+        "name": "Vocode",
+        "description": "Automate phone calls with AI",
+        "link": "https://www.ycombinator.com/companies/vocode"
+    },
+    {
+        "name": "Wallbit",
+        "description": "Neobank for global remote workers",
+        "link": "https://www.ycombinator.com/companies/wallbit"
+    },
+    {
+        "name": "Vellum",
+        "description": "The AI Product Development Platform",
+        "link": "https://www.ycombinator.com/companies/vellum"
+    },
+    {
+        "name": "Rex",
+        "description": "Your personal AI fitness and nutrition coach ",
+        "link": "https://www.ycombinator.com/companies/rex"
+    },
+    {
+        "name": "Interlock",
+        "description": "We are still in stealth mode.",
+        "link": "https://www.ycombinator.com/companies/interlock"
+    },
+    {
+        "name": "Persist AI",
+        "description": "Developing long-lasting drug formulations 50% faster",
+        "link": "https://www.ycombinator.com/companies/persist-ai"
+    },
+    {
+        "name": "Berry",
+        "description": "Scale customer success and onboarding with AI ",
+        "link": "https://www.ycombinator.com/companies/berry"
+    },
+    {
+        "name": "Conduit",
+        "description": "Software for warehouses to automate schedules with trucks.",
+        "link": "https://www.ycombinator.com/companies/conduit"
+    },
+    {
+        "name": "Codeparrot",
+        "description": "Copilot for Frontend Development",
+        "link": "https://www.ycombinator.com/companies/codeparrot"
+    },
+    {
+        "name": "SuperAPI",
+        "description": "Programmable API gateway that makes APIs cacheable",
+        "link": "https://www.ycombinator.com/companies/superapi"
+    },
+    {
+        "name": "fern",
+        "description": "SDKs and Docs for your API",
+        "link": "https://www.ycombinator.com/companies/fern"
+    },
+    {
+        "name": "Unstatiq",
+        "description": "Single source of truth for your clinic's finances and supply chain.",
+        "link": "https://www.ycombinator.com/companies/unstatiq"
+    },
+    {
+        "name": "Resend",
+        "description": "Email for developers",
+        "link": "https://www.ycombinator.com/companies/resend"
+    },
+    {
+        "name": "Decohere",
+        "description": "The best way to make AI video",
+        "link": "https://www.ycombinator.com/companies/decohere"
+    },
+    {
+        "name": "Ally",
+        "description": "Environmental Allergies Management Suite",
+        "link": "https://www.ycombinator.com/companies/ally"
+    },
+    {
+        "name": "Constant",
+        "description": "Private credit investment platform",
+        "link": "https://www.ycombinator.com/companies/constant"
+    },
+    {
+        "name": "Common Paper",
+        "description": "The SAFE for commercial contracts",
+        "link": "https://www.ycombinator.com/companies/common-paper"
+    },
+    {
+        "name": "Dill",
+        "description": "Dill is a digital invoicing tool for foodservice distributors",
+        "link": "https://www.ycombinator.com/companies/dill"
+    },
+    {
+        "name": "DealPage",
+        "description": "AI-Powered RFP and Security Questionnaire Software",
+        "link": "https://www.ycombinator.com/companies/dealpage"
+    },
+    {
+        "name": "Littio",
+        "description": "Dollar banking for people in Latin America",
+        "link": "https://www.ycombinator.com/companies/littio"
+    },
+    {
+        "name": "Thread",
+        "description": "Simplifying the RFP process for manufacturing companies",
+        "link": "https://www.ycombinator.com/companies/thread-2"
+    },
+    {
+        "name": "Waza",
+        "description": "B2B payments platform for emerging markets.",
+        "link": "https://www.ycombinator.com/companies/waza"
+    },
+    {
+        "name": "Rivet",
+        "description": "Open-source infrastructure for multiplayer games",
+        "link": "https://www.ycombinator.com/companies/rivet"
+    },
+    {
+        "name": "Sorted",
+        "description": "Instant SaaS management",
+        "link": "https://www.ycombinator.com/companies/sorted"
+    },
+    {
+        "name": "DAGWorks Inc.",
+        "description": "Unifying Platform Layer for Data, ML, & LLM Pipelines",
+        "link": "https://www.ycombinator.com/companies/dagworks-inc"
+    },
+    {
+        "name": "Swishjam",
+        "description": "All-in-one digital analytics for SaaS companies",
+        "link": "https://www.ycombinator.com/companies/swishjam"
+    },
+    {
+        "name": "Invopop",
+        "description": "We help global software companies comply with local tax reporting ",
+        "link": "https://www.ycombinator.com/companies/invopop"
+    },
+    {
+        "name": "Turntable",
+        "description": "AI-native operating system for analytics teams",
+        "link": "https://www.ycombinator.com/companies/turntable"
+    },
+    {
+        "name": "CorgiAI",
+        "description": "CorgiAI is payment fraud prevention software for ecommerce, travel\u2026",
+        "link": "https://www.ycombinator.com/companies/corgiai"
+    },
+    {
+        "name": "Stralis Aircraft",
+        "description": "Emission free hydrogen electric aircraft",
+        "link": "https://www.ycombinator.com/companies/stralis-aircraft"
+    },
+    {
+        "name": "Keep",
+        "description": "Open-source alert management and automation platform",
+        "link": "https://www.ycombinator.com/companies/keep"
+    },
+    {
+        "name": "PlayHT",
+        "description": "We build human-like Voice AI that customers love speaking with.",
+        "link": "https://www.ycombinator.com/companies/playht"
+    },
+    {
+        "name": "Holacasa",
+        "description": "End-to-end mortgage solution for Real Estate homebuyer's in LatAm",
+        "link": "https://www.ycombinator.com/companies/holacasa"
+    },
+    {
+        "name": "Epsilon",
+        "description": "AI Search Engine for Academic Research",
+        "link": "https://www.ycombinator.com/companies/epsilon"
+    },
+    {
+        "name": "Clad",
+        "description": "Software to build the internet faster.",
+        "link": "https://www.ycombinator.com/companies/clad"
+    },
+    {
+        "name": "Pylon",
+        "description": "Scale B2B Customer Support and Success on Slack and Teams",
+        "link": "https://www.ycombinator.com/companies/pylon-2"
+    },
+    {
+        "name": "Muffin Data",
+        "description": "Modern analytics for CPG brands",
+        "link": "https://www.ycombinator.com/companies/muffin-data"
+    },
+    {
+        "name": "Peeba",
+        "description": "Risk-free wholesale for retailers across Southeast Asia",
+        "link": "https://www.ycombinator.com/companies/peeba"
+    },
+    {
+        "name": "Diffuse Bio",
+        "description": "Generative AI for protein therapeutics",
+        "link": "https://www.ycombinator.com/companies/diffuse-bio"
+    },
+    {
+        "name": "inBuild",
+        "description": "Workflow Automation for Construction Finance ",
+        "link": "https://www.ycombinator.com/companies/inbuild"
+    },
+    {
+        "name": "Sanvivo",
+        "description": "Shopify for pharmacies in Europe",
+        "link": "https://www.ycombinator.com/companies/sanvivo"
+    },
+    {
+        "name": "clearspace",
+        "description": "eliminate compulsive phone usage",
+        "link": "https://www.ycombinator.com/companies/clearspace"
+    },
+    {
+        "name": "Quazel",
+        "description": "Language learning with a conversational AI Tutor",
+        "link": "https://www.ycombinator.com/companies/quazel"
+    },
+    {
+        "name": "Milio",
+        "description": "B2B-2C real-time account to account payments",
+        "link": "https://www.ycombinator.com/companies/milio"
+    },
+    {
+        "name": "Mantys",
+        "description": "ARR Tracking and Forecasting for SaaS companies",
+        "link": "https://www.ycombinator.com/companies/mantys"
+    },
+    {
+        "name": "Proglix",
+        "description": "B2B Marketplace for Raw Materials in Indonesia",
+        "link": "https://www.ycombinator.com/companies/proglix"
+    },
+    {
+        "name": "Coldreach",
+        "description": "Reach the right prospects and sound relevant to them, scalably",
+        "link": "https://www.ycombinator.com/companies/coldreach"
+    },
+    {
+        "name": "MagnaPlay",
+        "description": "AI-powered game translation.",
+        "link": "https://www.ycombinator.com/companies/magnaplay"
+    },
+    {
+        "name": "Shekel Mobility",
+        "description": "B2B marketplace for Auto Dealers in Africa",
+        "link": "https://www.ycombinator.com/companies/shekel-mobility"
+    },
+    {
+        "name": "iNRI",
+        "description": "Wealthfront for India\u2019s 32M expats living abroad",
+        "link": "https://www.ycombinator.com/companies/inri"
+    },
+    {
+        "name": "Onu",
+        "description": "Turn scripts into internal tools in minutes without any frontend work",
+        "link": "https://www.ycombinator.com/companies/onu"
+    },
+    {
+        "name": "Sirdab",
+        "description": "Cloud warehousing & supply chain platform in MENA",
+        "link": "https://www.ycombinator.com/companies/sirdab"
+    },
+    {
+        "name": "Baselit",
+        "description": "AI agents that reduce Snowflake costs",
+        "link": "https://www.ycombinator.com/companies/baselit"
+    },
+    {
+        "name": "Clueso",
+        "description": "AI-powered product education tool for SaaS companies",
+        "link": "https://www.ycombinator.com/companies/clueso"
+    },
+    {
+        "name": "Kalam",
+        "description": "India's first personal mentor & discipline inducing learning ecosystem",
+        "link": "https://www.ycombinator.com/companies/kalam"
+    },
+    {
+        "name": "Fastgen",
+        "description": "Webflow for the Backend",
+        "link": "https://www.ycombinator.com/companies/fastgen"
+    },
+    {
+        "name": "Defer",
+        "description": "Zero infrastructure background processing platform.",
+        "link": "https://www.ycombinator.com/companies/defer"
+    },
+    {
+        "name": "Arroyo",
+        "description": "Cloud-native stream processing",
+        "link": "https://www.ycombinator.com/companies/arroyo"
+    },
+    {
+        "name": "Vendah",
+        "description": "Meesho for Latam with positive operating margins",
+        "link": "https://www.ycombinator.com/companies/vendah"
+    },
+    {
+        "name": "Alaan",
+        "description": "Corporate cards & spend platform for businesses in the Middle East",
+        "link": "https://www.ycombinator.com/companies/alaan"
+    },
+    {
+        "name": "Tailorr",
+        "description": "Redefining communication for non-native speakers",
+        "link": "https://www.ycombinator.com/companies/tailorr"
+    },
+    {
+        "name": "UpTrain AI",
+        "description": "Open source LLM Evaluation tool",
+        "link": "https://www.ycombinator.com/companies/uptrain-ai"
+    },
+    {
+        "name": "keyval",
+        "description": "Open-source codeless monitoring pipeline",
+        "link": "https://www.ycombinator.com/companies/keyval"
+    },
+    {
+        "name": "nunu.ai",
+        "description": "Building the first multimodal gameplay agents.",
+        "link": "https://www.ycombinator.com/companies/nunu-ai"
+    },
+    {
+        "name": "Hona \ud83d\ude80",
+        "description": "The Domino's Pizza Tracker for service businesses and their clients.",
+        "link": "https://www.ycombinator.com/companies/hona"
+    },
+    {
+        "name": "Radical",
+        "description": "High-altitude solar-powered aircraft",
+        "link": "https://www.ycombinator.com/companies/radical"
+    },
+    {
+        "name": "Vitalize Care",
+        "description": "Optimizing nurse staffing for health systems",
+        "link": "https://www.ycombinator.com/companies/vitalize-care"
+    },
+    {
+        "name": "Noya Software",
+        "description": "Product design tool that lets everyone design like a designer",
+        "link": "https://www.ycombinator.com/companies/noya-software"
+    },
+    {
+        "name": "Infinia",
+        "description": "Helping merchants accept bank payments in LATAM ",
+        "link": "https://www.ycombinator.com/companies/infinia"
+    },
+    {
+        "name": "Koywe",
+        "description": "Crypto On and Off Ramp for Latam",
+        "link": "https://www.ycombinator.com/companies/koywe"
+    },
+    {
+        "name": "Dealwise",
+        "description": "Marketplace for buying and selling SaaS companies",
+        "link": "https://www.ycombinator.com/companies/dealwise"
+    },
+    {
+        "name": "Honeydew",
+        "description": "The home for shared data logic",
+        "link": "https://www.ycombinator.com/companies/honeydew"
+    },
+    {
+        "name": "Sherloq",
+        "description": "Github for data teams",
+        "link": "https://www.ycombinator.com/companies/sherloq"
+    },
+    {
+        "name": "SPRX",
+        "description": "AI for corporate R&D tax credits",
+        "link": "https://www.ycombinator.com/companies/sprx"
+    },
+    {
+        "name": "Shortbread",
+        "description": "Create comics with AI in minutes",
+        "link": "https://www.ycombinator.com/companies/shortbread"
+    },
+    {
+        "name": "Fluid Markets",
+        "description": "Exchange to Invest in Company Earnings",
+        "link": "https://www.ycombinator.com/companies/fluid-markets"
+    },
+    {
+        "name": "Fairway Health",
+        "description": "AI Co-Pilot for Health Insurers to Authorize Treatment Faster",
+        "link": "https://www.ycombinator.com/companies/fairway-health"
+    },
+    {
+        "name": "Hadrius",
+        "description": "The Financial Compliance Copilot",
+        "link": "https://www.ycombinator.com/companies/hadrius"
+    },
+    {
+        "name": "Technician",
+        "description": "Fix bugs in production instantly with AI",
+        "link": "https://www.ycombinator.com/companies/technician"
+    },
+    {
+        "name": "Semantic Finance",
+        "description": "Realtime AI-powered financial news data",
+        "link": "https://www.ycombinator.com/companies/semantic-finance"
+    },
+    {
+        "name": "Defog.ai",
+        "description": "Fine-tuned LLMs for enterprise data analysis",
+        "link": "https://www.ycombinator.com/companies/defog-ai"
+    },
+    {
+        "name": "Boundary",
+        "description": "The all-in-one toolchain for building AI applications",
+        "link": "https://www.ycombinator.com/companies/boundary"
+    },
+    {
+        "name": "DailyPe",
+        "description": "Marketplace for business loans that are repaid daily. ",
+        "link": "https://www.ycombinator.com/companies/dailype"
+    },
+    {
+        "name": "FiddleCube",
+        "description": "Fine-tuning LLMs with high-quality synthetic data",
+        "link": "https://www.ycombinator.com/companies/fiddlecube"
+    },
+    {
+        "name": "Fiber",
+        "description": "We help developers pull data from popular APIs to build integrations",
+        "link": "https://www.ycombinator.com/companies/fiber"
+    },
+    {
+        "name": "Fintool",
+        "description": "Financial copilot for institutional investors",
+        "link": "https://www.ycombinator.com/companies/fintool"
+    },
+    {
+        "name": "Intrinsic",
+        "description": "Connect your Trust & Safety team with world-class tooling",
+        "link": "https://www.ycombinator.com/companies/intrinsic"
+    },
+    {
+        "name": "222",
+        "description": "marketplace facilitating IRL social experiences at local venues",
+        "link": "https://www.ycombinator.com/companies/222"
+    },
+    {
+        "name": "OutSail Technologies",
+        "description": "Revolutionary, Modern Wing Sails",
+        "link": "https://www.ycombinator.com/companies/outsail-technologies"
+    },
+    {
+        "name": "Ariglad",
+        "description": "The Jira for internal teams",
+        "link": "https://www.ycombinator.com/companies/ariglad"
+    },
+    {
+        "name": "Berilium",
+        "description": "Enabling investment advisors to access Private Equity & Private Credit",
+        "link": "https://www.ycombinator.com/companies/berilium"
+    },
+    {
+        "name": "Homeflow",
+        "description": "Simplifying insurance for large real estate investors",
+        "link": "https://www.ycombinator.com/companies/homeflow"
+    },
+    {
+        "name": "Helicone",
+        "description": "The easiest way to monitor your LLM-applications at scale",
+        "link": "https://www.ycombinator.com/companies/helicone"
+    },
+    {
+        "name": "Rainmaker",
+        "description": "DeFi for Everyone",
+        "link": "https://www.ycombinator.com/companies/rainmaker"
+    },
+    {
+        "name": "IcePanel",
+        "description": "Explain complex software systems to engineering and product teams",
+        "link": "https://www.ycombinator.com/companies/icepanel"
+    },
+    {
+        "name": "Magicflow \ud800\udc82",
+        "description": "Webflow for AI development",
+        "link": "https://www.ycombinator.com/companies/magicflow"
+    },
+    {
+        "name": "Storyboarder",
+        "description": "Tool and platform to create and sell webcomics",
+        "link": "https://www.ycombinator.com/companies/storyboarder"
+    },
+    {
+        "name": "1stCollab",
+        "description": "Performance-Optimized Influencer Marketing",
+        "link": "https://www.ycombinator.com/companies/1stcollab"
+    },
+    {
+        "name": "Teclada",
+        "description": "The modern terminal for modern developers.",
+        "link": "https://www.ycombinator.com/companies/teclada"
+    },
+    {
+        "name": "Orchid",
+        "description": "AI-powered EHR for independent mental health professionals",
+        "link": "https://www.ycombinator.com/companies/orchid"
+    },
+    {
+        "name": "GoodCourse",
+        "description": "The TikTok style corporate training platform",
+        "link": "https://www.ycombinator.com/companies/goodcourse"
+    },
+    {
+        "name": "Forfeit",
+        "description": "An app that takes your money if you don't complete your habits.",
+        "link": "https://www.ycombinator.com/companies/forfeit"
+    },
+    {
+        "name": "TableFlow",
+        "description": "The open source CSV importer",
+        "link": "https://www.ycombinator.com/companies/tableflow"
+    },
+    {
+        "name": "Truewind",
+        "description": "AI-powered Bookkeeping and Finance Software",
+        "link": "https://www.ycombinator.com/companies/truewind"
+    },
+    {
+        "name": "Booth AI",
+        "description": "Generative AI Photographer for E-Commerce",
+        "link": "https://www.ycombinator.com/companies/booth-ai"
+    },
+    {
+        "name": "BuildJet",
+        "description": "High-performance computing cloud",
+        "link": "https://www.ycombinator.com/companies/buildjet"
+    },
+    {
+        "name": "ShortLoop",
+        "description": "Automated API Platform for fast-moving teams",
+        "link": "https://www.ycombinator.com/companies/shortloop"
+    },
+    {
+        "name": "Wild Moose",
+        "description": "Helping on-call devs tame production chaos with Generative AI",
+        "link": "https://www.ycombinator.com/companies/wild-moose"
+    },
+    {
+        "name": "EzDubs",
+        "description": "Real-time AI dubbing",
+        "link": "https://www.ycombinator.com/companies/ezdubs"
+    },
+    {
+        "name": "GradientJ",
+        "description": "Platform to build large language model applications",
+        "link": "https://www.ycombinator.com/companies/gradientj"
+    },
+    {
+        "name": "Inkeep",
+        "description": "AI search and support copilots for developer products",
+        "link": "https://www.ycombinator.com/companies/inkeep"
+    },
+    {
+        "name": "Plutis",
+        "description": "",
+        "link": "https://www.ycombinator.com/companies/plutis"
+    },
+    {
+        "name": "Momentum Foods",
+        "description": "Adding meat back into plant-based meat. ",
+        "link": "https://www.ycombinator.com/companies/momentum-foods"
+    },
+    {
+        "name": "Ruuf",
+        "description": "Managed marketplace for solar in Latam",
+        "link": "https://www.ycombinator.com/companies/ruuf"
+    },
+    {
+        "name": "OpenMeter",
+        "description": "Usage Metering for AI, DevOps & Billing",
+        "link": "https://www.ycombinator.com/companies/openmeter"
+    },
+    {
+        "name": "Propexo",
+        "description": "Plaid for Commercial Real Estate",
+        "link": "https://www.ycombinator.com/companies/propexo"
+    },
+    {
+        "name": "Iliad",
+        "description": "Creative tool for generating game assets using AI",
+        "link": "https://www.ycombinator.com/companies/iliad"
+    },
+    {
+        "name": "Squack",
+        "description": "Natural language RPA tools for accountants",
+        "link": "https://www.ycombinator.com/companies/squack"
+    },
+    {
+        "name": "Floworks",
+        "description": "Close more deals with CRM on Slack",
+        "link": "https://www.ycombinator.com/companies/floworks"
+    },
+    {
+        "name": "Extend",
+        "description": "AI-Powered Workflows for Unstructured Data",
+        "link": "https://www.ycombinator.com/companies/extend"
+    },
+    {
+        "name": "Langfuse",
+        "description": "Open source observability & analytics for LLM apps",
+        "link": "https://www.ycombinator.com/companies/langfuse"
+    },
+    {
+        "name": "Finex",
+        "description": "Finex is a single platform for all e-commerce finances.",
+        "link": "https://www.ycombinator.com/companies/finex"
+    },
+    {
+        "name": "Outerbase",
+        "description": "The interface for your database",
+        "link": "https://www.ycombinator.com/companies/outerbase"
+    },
+    {
+        "name": "Anarchy",
+        "description": "LLM infrastructure for conversational UI",
+        "link": "https://www.ycombinator.com/companies/anarchy"
+    },
+    {
+        "name": "Bluedot",
+        "description": "Bluedot is a single payment platform for EV drivers and fleets.",
+        "link": "https://www.ycombinator.com/companies/bluedot"
+    },
+    {
+        "name": "Dream3D",
+        "description": "AI-powered 3D Design",
+        "link": "https://www.ycombinator.com/companies/dream3d"
+    },
+    {
+        "name": "Intently",
+        "description": "Helping sales teams automatically identify the best targets using AI",
+        "link": "https://www.ycombinator.com/companies/intently"
+    },
+    {
+        "name": "Kivo Health",
+        "description": "Telehealth lung rehab",
+        "link": "https://www.ycombinator.com/companies/kivo-health"
+    },
+    {
+        "name": "coil",
+        "description": "Pay-by-bank for subscriptions",
+        "link": "https://www.ycombinator.com/companies/coil"
+    },
+    {
+        "name": "Haven",
+        "description": "The LLM-Powered Automation Layer for Property Management",
+        "link": "https://www.ycombinator.com/companies/haven-2"
+    },
+    {
+        "name": "Suger",
+        "description": "Salesforce for Cloud marketplaces on AWS, Azure, GCP",
+        "link": "https://www.ycombinator.com/companies/suger"
+    },
+    {
+        "name": "Frigade",
+        "description": "Build better product  onboarding, faster.",
+        "link": "https://www.ycombinator.com/companies/frigade"
+    },
+    {
+        "name": "0pass",
+        "description": "We help organizations go passwordless.",
+        "link": "https://www.ycombinator.com/companies/0pass"
+    },
+    {
+        "name": "Polo",
+        "description": "We develop POS and management solutions for LatAm restaurants.",
+        "link": "https://www.ycombinator.com/companies/polo"
+    },
+    {
+        "name": "Cloudchipr",
+        "description": "Workflow Automation for Cloud Operations",
+        "link": "https://www.ycombinator.com/companies/cloudchipr"
+    },
+    {
+        "name": "Athina AI",
+        "description": "Monitoring, Analytics & Automatic Evaluations for LLM Developers",
+        "link": "https://www.ycombinator.com/companies/athina-ai"
+    },
+    {
+        "name": "Chart",
+        "description": "Communication Intelligence for Quality Assurance and Compliance",
+        "link": "https://www.ycombinator.com/companies/chart"
+    },
+    {
+        "name": "Bujeti",
+        "description": "Corporate cards and expenses management platform for African\u2026",
+        "link": "https://www.ycombinator.com/companies/bujeti"
+    },
+    {
+        "name": "Index",
+        "description": "Collaborative planning for high-growth technology companies",
+        "link": "https://www.ycombinator.com/companies/index-1"
+    },
+    {
+        "name": "Cosine",
+        "description": "Your AI Co-developer",
+        "link": "https://www.ycombinator.com/companies/cosine"
+    },
+    {
+        "name": "Flower",
+        "description": "Train AI on distributed data",
+        "link": "https://www.ycombinator.com/companies/flower"
+    },
+    {
+        "name": "Pirros",
+        "description": "Github for Construction",
+        "link": "https://www.ycombinator.com/companies/pirros"
+    },
+    {
+        "name": "LinkGrep",
+        "description": "AI browser copilot for teams",
+        "link": "https://www.ycombinator.com/companies/linkgrep"
+    },
+    {
+        "name": "Bluebirds",
+        "description": "Resell to past customers who switched jobs",
+        "link": "https://www.ycombinator.com/companies/bluebirds"
+    },
+    {
+        "name": "Trigo",
+        "description": "Rent data API for landlords and lenders",
+        "link": "https://www.ycombinator.com/companies/trigo"
+    },
+    {
+        "name": "Neptyne",
+        "description": "The programmable spreadsheet.",
+        "link": "https://www.ycombinator.com/companies/neptyne"
+    },
+    {
+        "name": "Scanbase",
+        "description": "The API for Diagnostic Test Analysis (COVID-19, FLU, RSV, STD,\u2026",
+        "link": "https://www.ycombinator.com/companies/scanbase"
+    },
+    {
+        "name": "Vooma",
+        "description": "Backoffice automation platform for logistics",
+        "link": "https://www.ycombinator.com/companies/vooma"
+    },
+    {
+        "name": "CreatorML",
+        "description": "ML-Powered Predictive Analytics for YouTube Creators",
+        "link": "https://www.ycombinator.com/companies/creatorml"
+    },
+    {
+        "name": "Coperniq",
+        "description": "Workflow software for solar & energy contractors \u2600\ufe0f\ud83d\ude0e",
+        "link": "https://www.ycombinator.com/companies/coperniq"
+    },
+    {
+        "name": "Zenfetch",
+        "description": "AI-powered memory assistant",
+        "link": "https://www.ycombinator.com/companies/zenfetch"
+    },
+    {
+        "name": "PoplarML",
+        "description": "Deploy Machine Learning Models with One Command",
+        "link": "https://www.ycombinator.com/companies/poplarml"
+    },
+    {
+        "name": "LaunchFlow",
+        "description": "The Developer Platform Built for Python",
+        "link": "https://www.ycombinator.com/companies/launchflow"
+    },
+    {
+        "name": "FlexWash",
+        "description": "The operating system for the car wash industry.",
+        "link": "https://www.ycombinator.com/companies/flexwash"
+    },
+    {
+        "name": "Gluetrail",
+        "description": "Build apps in no-code on top of your business systems",
+        "link": "https://www.ycombinator.com/companies/gluetrail"
+    },
+    {
+        "name": "JustPaid.io",
+        "description": "AI-powered automation invoicing and bill pay",
+        "link": "https://www.ycombinator.com/companies/justpaid-io"
+    },
+    {
+        "name": "OfOne",
+        "description": "AI-powered order taker for restaurant drive-thrus",
+        "link": "https://www.ycombinator.com/companies/ofone"
+    },
+    {
+        "name": "Narrative",
+        "description": "Bill.com for logistics",
+        "link": "https://www.ycombinator.com/companies/narrative"
+    },
+    {
+        "name": "Omnistrate",
+        "description": "Transform any software to multi-cloud SaaS in minutes not years",
+        "link": "https://www.ycombinator.com/companies/omnistrate"
+    },
+    {
+        "name": "Feather",
+        "description": "The first AI for finance.",
+        "link": "https://www.ycombinator.com/companies/feather-3"
+    },
+    {
+        "name": "Tennr",
+        "description": "Custom Workflow Automations for Highly Regulated Businesses",
+        "link": "https://www.ycombinator.com/companies/tennr"
+    },
+    {
+        "name": "Cakework",
+        "description": "API that adds cloud hosting to any developer platform",
+        "link": "https://www.ycombinator.com/companies/cakework"
+    },
+    {
+        "name": "EdgeBit",
+        "description": "Security platform to prevent useless supply chain investigation",
+        "link": "https://www.ycombinator.com/companies/edgebit"
+    },
+    {
+        "name": "Salient",
+        "description": "AI Servicing for Auto Lenders",
+        "link": "https://www.ycombinator.com/companies/salient"
+    },
+    {
+        "name": "ZeroDev",
+        "description": "Account abstraction wallets as a service",
+        "link": "https://www.ycombinator.com/companies/zerodev"
+    },
+    {
+        "name": "Ruby Card",
+        "description": "Neobank for e-commerce businesses",
+        "link": "https://www.ycombinator.com/companies/ruby-card"
+    },
+    {
+        "name": "Pledge Health",
+        "description": "Automated patient billing for independent healthcare clinics",
+        "link": "https://www.ycombinator.com/companies/pledge-health"
+    },
+    {
+        "name": "Versive",
+        "description": "AI-powered surveys that collect interview-quality insights",
+        "link": "https://www.ycombinator.com/companies/versive"
+    },
+    {
+        "name": "Glass Health",
+        "description": "AI-Powered Clinical Decision Support",
+        "link": "https://www.ycombinator.com/companies/glass-health"
+    },
+    {
+        "name": "Double",
+        "description": "Background research on sales prospects by searching the web with LLMs",
+        "link": "https://www.ycombinator.com/companies/double"
+    },
+    {
+        "name": "Byterat",
+        "description": "Benchling for battery companies",
+        "link": "https://www.ycombinator.com/companies/byterat"
+    },
+    {
+        "name": "Pair AI",
+        "description": "Reimagining education with short form video and AI",
+        "link": "https://www.ycombinator.com/companies/pair-ai"
+    },
+    {
+        "name": "Mercoa",
+        "description": "BillPay & Accounts Payable API for B2B Platforms",
+        "link": "https://www.ycombinator.com/companies/mercoa"
+    },
+    {
+        "name": "Numeral",
+        "description": "Ecommerce sales tax on autopilot. ",
+        "link": "https://www.ycombinator.com/companies/numeral"
+    },
+    {
+        "name": "Rubber Ducky Labs",
+        "description": "Operational Analytics for Recommender Systems",
+        "link": "https://www.ycombinator.com/companies/rubber-ducky-labs"
+    },
+    {
+        "name": "Nango",
+        "description": "Open unified API for all your integrations",
+        "link": "https://www.ycombinator.com/companies/nango"
+    },
+    {
+        "name": "Parabolic",
+        "description": "AI assistant for customer support",
+        "link": "https://www.ycombinator.com/companies/parabolic"
+    },
+    {
+        "name": "Palomma",
+        "description": "Frictionless Account to Account (A2A) Payments for LatAm",
+        "link": "https://www.ycombinator.com/companies/palomma"
+    },
+    {
+        "name": "CodeComplete",
+        "description": "AI-powered code completion for enterprise.",
+        "link": "https://www.ycombinator.com/companies/codecomplete"
+    },
+    {
+        "name": "Brewit",
+        "description": "Conversational data anlayitcs for every team",
+        "link": "https://www.ycombinator.com/companies/brewit"
+    },
+    {
+        "name": "Hammr",
+        "description": "Rippling for the Construction Industry",
+        "link": "https://www.ycombinator.com/companies/hammr"
+    },
+    {
+        "name": "Coaster",
+        "description": "The marketplace for guided outdoor experiences",
+        "link": "https://www.ycombinator.com/companies/coaster"
+    },
+    {
+        "name": "Trackstar",
+        "description": "Plaid for supply chain logistics",
+        "link": "https://www.ycombinator.com/companies/trackstar"
+    },
+    {
+        "name": "Nebula",
+        "description": "Code-level observability and debugging for large enterprises",
+        "link": "https://www.ycombinator.com/companies/nebula"
+    },
+    {
+        "name": "FlexDesk",
+        "description": "Helping companies book and manage their spend on coworking space.",
+        "link": "https://www.ycombinator.com/companies/flexdesk"
+    },
+    {
+        "name": "Dashdive",
+        "description": "Break down AI and cloud costs by feature and customer",
+        "link": "https://www.ycombinator.com/companies/dashdive"
+    },
+    {
+        "name": "Pyq AI",
+        "description": "Customized Task-Specific AI Models",
+        "link": "https://www.ycombinator.com/companies/pyq-ai"
+    },
+    {
+        "name": "Backdrop",
+        "description": "Vertical SaaS for the $650B+ Film, TV, and Music Production Industry ",
+        "link": "https://www.ycombinator.com/companies/backdrop"
+    },
+    {
+        "name": "Latent",
+        "description": "Medical language models to automate healthcare operations",
+        "link": "https://www.ycombinator.com/companies/latent"
+    },
+    {
+        "name": "Concourse",
+        "description": "AI-powered treasury management for global companies",
+        "link": "https://www.ycombinator.com/companies/concourse"
+    },
+    {
+        "name": "Viddy",
+        "description": "E-commerce shopping experiences for paid social ads.",
+        "link": "https://www.ycombinator.com/companies/viddy"
+    },
+    {
+        "name": "Lume",
+        "description": "Automate custom data integrations with AI",
+        "link": "https://www.ycombinator.com/companies/lume-2"
+    },
+    {
+        "name": "SelectIQ",
+        "description": "Clinical trial patient referrals on autopilot",
+        "link": "https://www.ycombinator.com/companies/selectiq"
+    },
+    {
+        "name": "Pigeon",
+        "description": "Document collection made fast, easy, and secure",
+        "link": "https://www.ycombinator.com/companies/pigeon"
+    },
+    {
+        "name": "Paperplane",
+        "description": "Update Salesforce automatically using NLP",
+        "link": "https://www.ycombinator.com/companies/paperplane"
+    },
+    {
+        "name": "Depot",
+        "description": "Build Docker containers 20x faster",
+        "link": "https://www.ycombinator.com/companies/depot"
+    },
+    {
+        "name": "Rollstack",
+        "description": "Automatically create and update data-driven slide decks and documents",
+        "link": "https://www.ycombinator.com/companies/rollstack-2"
+    },
+    {
+        "name": "Magic Patterns",
+        "description": "Generate UI from a simple text prompt",
+        "link": "https://www.ycombinator.com/companies/magic-patterns"
+    },
+    {
+        "name": "Credal.ai",
+        "description": "The safest way to use AI at the enterprise",
+        "link": "https://www.ycombinator.com/companies/credal-ai"
+    },
+    {
+        "name": "Layup",
+        "description": "AI that builds workflows across company apps",
+        "link": "https://www.ycombinator.com/companies/layup"
+    },
+    {
+        "name": "Doctor Droid",
+        "description": "Your best friend in production.",
+        "link": "https://www.ycombinator.com/companies/doctor-droid"
+    },
+    {
+        "name": "Syncly",
+        "description": "AI to automatically analyze all your customer emails",
+        "link": "https://www.ycombinator.com/companies/syncly"
+    },
+    {
+        "name": "AvenHQ",
+        "description": "Shopify for professional service firms",
+        "link": "https://www.ycombinator.com/companies/avenhq"
+    },
+    {
+        "name": "Versori",
+        "description": "Add fully custom native connectors to your SaaS in hours",
+        "link": "https://www.ycombinator.com/companies/versori"
+    },
+    {
+        "name": "Trigger.dev",
+        "description": "The open source background jobs framework for Typescript",
+        "link": "https://www.ycombinator.com/companies/trigger-dev"
+    },
+    {
+        "name": "rift",
+        "description": "Cold outbound that doesn't land in spam.",
+        "link": "https://www.ycombinator.com/companies/rift"
+    },
+    {
+        "name": "Traceloop",
+        "description": "Observability and testing for your LLM application",
+        "link": "https://www.ycombinator.com/companies/traceloop"
+    },
+    {
+        "name": "Matano",
+        "description": "Cloud Native SIEM (alternative to Splunk/Elastic)",
+        "link": "https://www.ycombinator.com/companies/matano"
+    },
+    {
+        "name": "Cardinal",
+        "description": "Your AI product backlog",
+        "link": "https://www.ycombinator.com/companies/cardinal"
+    },
+    {
+        "name": "Linum",
+        "description": "Midjourney for Video",
+        "link": "https://www.ycombinator.com/companies/linum"
+    },
+    {
+        "name": "OneText",
+        "description": "Frictionless payments via SMS",
+        "link": "https://www.ycombinator.com/companies/onetext"
+    },
+    {
+        "name": "Reflex",
+        "description": "Web apps in pure Python.",
+        "link": "https://www.ycombinator.com/companies/reflex"
+    },
+    {
+        "name": "Blyss",
+        "description": "End-to-end encrypted AI.",
+        "link": "https://www.ycombinator.com/companies/blyss"
+    },
+    {
+        "name": "Miracle",
+        "description": "Speed up clinical trials by connecting trial data sources into 1 view",
+        "link": "https://www.ycombinator.com/companies/miracle"
+    },
+    {
+        "name": "Finvest",
+        "description": "Easy way to buy US Treasury Bills",
+        "link": "https://www.ycombinator.com/companies/finvest"
+    },
+    {
+        "name": "Laminate",
+        "description": "",
+        "link": "https://www.ycombinator.com/companies/laminate"
+    },
+    {
+        "name": "Blocksfabrik",
+        "description": "Auto-generate UI components from design guidelines",
+        "link": "https://www.ycombinator.com/companies/blocksfabrik"
+    },
+    {
+        "name": "Stack AI",
+        "description": "The AI Automation Platfrom",
+        "link": "https://www.ycombinator.com/companies/stack-ai"
+    },
+    {
+        "name": "Middleware",
+        "description": "AI-based full stack observability platform",
+        "link": "https://www.ycombinator.com/companies/middleware"
+    },
+    {
+        "name": "Infisical",
+        "description": "Open-source, end-to-end encrypted secrets manager for developers",
+        "link": "https://www.ycombinator.com/companies/infisical"
+    },
+    {
+        "name": "Avoca",
+        "description": "AI-powered communications platform for SMBs",
+        "link": "https://www.ycombinator.com/companies/avoca"
+    },
+    {
+        "name": "Rubbrband",
+        "description": "Evaluation for AI-generated images",
+        "link": "https://www.ycombinator.com/companies/rubbrband"
+    },
+    {
+        "name": "Nucleus",
+        "description": "The Business Phone powered by LLMs",
+        "link": "https://www.ycombinator.com/companies/nucleus-2"
+    },
+    {
+        "name": "Sameday",
+        "description": "AI sales agents for home service businesses",
+        "link": "https://www.ycombinator.com/companies/sameday"
+    },
+    {
+        "name": "Polymath Robotics",
+        "description": "General Autonomy for Industrial Vehicles",
+        "link": "https://www.ycombinator.com/companies/polymath-robotics"
+    },
+    {
+        "name": "Terrace",
+        "description": "Institutional-Grade Trading Solutions for DeFi",
+        "link": "https://www.ycombinator.com/companies/terrace"
+    },
+    {
+        "name": "Morf Health",
+        "description": "Data integration platform for digital healthcare",
+        "link": "https://www.ycombinator.com/companies/morf-health"
+    },
+    {
+        "name": "Materee",
+        "description": "E-commerce platform for construction materials in Indonesia",
+        "link": "https://www.ycombinator.com/companies/materee"
+    },
+    {
+        "name": "Ping",
+        "description": "The global neo-bank for contractors and freelancers",
+        "link": "https://www.ycombinator.com/companies/ping"
+    },
+    {
+        "name": "Dev Tools AI",
+        "description": "AI powered web & mobile automation",
+        "link": "https://www.ycombinator.com/companies/dev-tools-ai"
+    },
+    {
+        "name": "Guardian Bio",
+        "description": "Dendritic cell-based platform for cancer therapy ",
+        "link": "https://www.ycombinator.com/companies/guardian-bio"
+    },
+    {
+        "name": "Pivo Technology Inc",
+        "description": "Digital Bank for Freight Carriers in Africa.",
+        "link": "https://www.ycombinator.com/companies/pivo-technology-inc"
+    },
+    {
+        "name": "Integrated Reasoning",
+        "description": "Specialized processors for solving NP-complete problems",
+        "link": "https://www.ycombinator.com/companies/integrated-reasoning"
+    },
+    {
+        "name": "Coverage Cat",
+        "description": "Consumer Optimized Insurance",
+        "link": "https://www.ycombinator.com/companies/coverage-cat"
+    },
+    {
+        "name": "AccessOwl",
+        "description": "Managing your Employees' Access to SaaS",
+        "link": "https://www.ycombinator.com/companies/accessowl"
+    },
+    {
+        "name": "Intuned",
+        "description": "Reliably integrate with websites that don\u2019t have official APIs",
+        "link": "https://www.ycombinator.com/companies/intuned"
+    },
+    {
+        "name": "Chima",
+        "description": "Building infrastructure tools to help large companies customize their\u2026",
+        "link": "https://www.ycombinator.com/companies/chima"
+    },
+    {
+        "name": "Cone",
+        "description": "Modern finance and accounting platform for business",
+        "link": "https://www.ycombinator.com/companies/cone"
+    },
+    {
+        "name": "Landeed",
+        "description": "Landeed is India's fastest property title search engine ",
+        "link": "https://www.ycombinator.com/companies/landeed"
+    },
+    {
+        "name": "Lotus",
+        "description": "Open-Core Pricing and Billing Engine",
+        "link": "https://www.ycombinator.com/companies/lotus"
+    },
+    {
+        "name": "Axle",
+        "description": "Universal API for insurance",
+        "link": "https://www.ycombinator.com/companies/axle"
+    },
+    {
+        "name": "Aldara",
+        "description": "HOA manager with automated operations",
+        "link": "https://www.ycombinator.com/companies/aldara"
+    },
+    {
+        "name": "Cambio",
+        "description": "Decarbonizing commercial real estate at scale",
+        "link": "https://www.ycombinator.com/companies/cambio-2"
+    },
+    {
+        "name": "InVision Medical Technology",
+        "description": "AI Diagnosis of  Heart Disease",
+        "link": "https://www.ycombinator.com/companies/invision-medical-technology"
+    },
+    {
+        "name": "Kamion",
+        "description": "Uber for Trucks for Turkey",
+        "link": "https://www.ycombinator.com/companies/kamion"
+    },
+    {
+        "name": "CAPSULE",
+        "description": "Buy anything you find on social media",
+        "link": "https://www.ycombinator.com/companies/capsule"
+    },
+    {
+        "name": "Shelf",
+        "description": "Neobank for Young Professionals in India",
+        "link": "https://www.ycombinator.com/companies/shelf"
+    },
+    {
+        "name": "Delfino AI",
+        "description": "Generative AI for administrative automation in healthcare ",
+        "link": "https://www.ycombinator.com/companies/delfino-ai"
+    },
+    {
+        "name": "Kashin",
+        "description": "Credit for the emerging economy in Latam",
+        "link": "https://www.ycombinator.com/companies/kashin"
+    },
+    {
+        "name": "Lavo Life Sciences",
+        "description": "AI for drug formulation",
+        "link": "https://www.ycombinator.com/companies/lavo-life-sciences"
+    },
+    {
+        "name": "Velontra",
+        "description": "Hypersonic space plane that can take-off from any location and weather",
+        "link": "https://www.ycombinator.com/companies/velontra"
+    },
+    {
+        "name": "Vizzly",
+        "description": "Customer-Facing Analytics for Modern SaaS.",
+        "link": "https://www.ycombinator.com/companies/vizzly"
+    },
+    {
+        "name": "REVER",
+        "description": "Changing the way people buy by giving superpowers to shoppers",
+        "link": "https://www.ycombinator.com/companies/rever"
+    },
+    {
+        "name": "AlgoTest",
+        "description": "High-Frequency Options Trading for India",
+        "link": "https://www.ycombinator.com/companies/algotest"
+    },
+    {
+        "name": "Abridge",
+        "description": "Flexport for India",
+        "link": "https://www.ycombinator.com/companies/abridge"
+    },
+    {
+        "name": "Knowtex",
+        "description": "Making doctors 2x more efficient with AI note-taking & charge capture",
+        "link": "https://www.ycombinator.com/companies/knowtex"
+    },
+    {
+        "name": "Taro",
+        "description": "Premium membership for ambitious software engineers",
+        "link": "https://www.ycombinator.com/companies/taro"
+    },
+    {
+        "name": "Pump.co",
+        "description": "The Costco for cloud is here \ud83d\udd25\ud83d\udd25",
+        "link": "https://www.ycombinator.com/companies/pump-co"
+    },
+    {
+        "name": "MovingLake",
+        "description": "Realtime Data Connectors",
+        "link": "https://www.ycombinator.com/companies/movinglake"
+    },
+    {
+        "name": "Slingshot",
+        "description": "Analyze medical records in seconds",
+        "link": "https://www.ycombinator.com/companies/slingshot"
+    },
+    {
+        "name": "Uwi",
+        "description": "Financing solutions for Southeast Asia housing crisis ",
+        "link": "https://www.ycombinator.com/companies/uwi"
+    },
+    {
+        "name": "Monterey AI",
+        "description": "Turn customer voice to product insights",
+        "link": "https://www.ycombinator.com/companies/monterey-ai"
+    },
+    {
+        "name": "Jamble",
+        "description": "Fashion resale marketplace powered by live streaming and video",
+        "link": "https://www.ycombinator.com/companies/jamble"
+    },
+    {
+        "name": "Lancey",
+        "description": "Interactive demo platform",
+        "link": "https://www.ycombinator.com/companies/lancey"
+    },
+    {
+        "name": "ReleviumBio",
+        "description": "Platform injectable gel based biotherapeutic for osteoarthritis",
+        "link": "https://www.ycombinator.com/companies/releviumbio"
+    },
+    {
+        "name": "Blockscope",
+        "description": "Web3 Data Platform for understanding on-chain activity",
+        "link": "https://www.ycombinator.com/companies/blockscope"
+    },
+    {
+        "name": "Wondercraft",
+        "description": "Create a podcast, by typing.",
+        "link": "https://www.ycombinator.com/companies/wondercraft"
+    },
+    {
+        "name": "Entvin",
+        "description": "",
+        "link": "https://www.ycombinator.com/companies/entvin"
+    },
+    {
+        "name": "autone",
+        "description": "Inventory management SaaS for Retail & Consumer brands",
+        "link": "https://www.ycombinator.com/companies/autone"
+    },
+    {
+        "name": "Oneleet",
+        "description": "Automated security and compliance without security theater",
+        "link": "https://www.ycombinator.com/companies/oneleet"
+    },
+    {
+        "name": "Krave Mart",
+        "description": "Grocery Delivery in Pakistan",
+        "link": "https://www.ycombinator.com/companies/krave-mart"
+    },
+    {
+        "name": "Drahim \ud83d\udcb0",
+        "description": "WealthFront for Saudi & Middle East",
+        "link": "https://www.ycombinator.com/companies/drahim"
+    },
+    {
+        "name": "Almond",
+        "description": "We make it easy to get great ObGyn care  in-person and over telehealth",
+        "link": "https://www.ycombinator.com/companies/almond"
+    },
+    {
+        "name": "Jasmine Energy",
+        "description": "Jasmine is a decentralized market for climate assets",
+        "link": "https://www.ycombinator.com/companies/jasmine-energy"
+    },
+    {
+        "name": "Levers",
+        "description": "Automating collection and boosting cashflow for B2B companies",
+        "link": "https://www.ycombinator.com/companies/levers"
+    },
+    {
+        "name": "Sonnet",
+        "description": "Notes, context, and insights, across all your meetings",
+        "link": "https://www.ycombinator.com/companies/sonnet"
+    },
+    {
+        "name": "Caddie AI",
+        "description": "Email Built for Sales",
+        "link": "https://www.ycombinator.com/companies/caddie-ai"
+    },
+    {
+        "name": "UpLink",
+        "description": "Document Collection Software for Accountants, Auditors, and Lawyers",
+        "link": "https://www.ycombinator.com/companies/uplink"
+    },
+    {
+        "name": "Mendable",
+        "description": "Easiest way to build enterprise AI search and chat apps",
+        "link": "https://www.ycombinator.com/companies/mendable"
+    },
+    {
+        "name": "Momentu",
+        "description": "Corporate mental health platform for LATAM",
+        "link": "https://www.ycombinator.com/companies/momentu"
+    },
+    {
+        "name": "Drip",
+        "description": "Shop and pay in installments anywhere ",
+        "link": "https://www.ycombinator.com/companies/drip"
+    },
+    {
+        "name": "FoodCourt",
+        "description": "Virtual Restaurants & Stores for Africa",
+        "link": "https://www.ycombinator.com/companies/foodcourt"
+    },
+    {
+        "name": "Sunpia",
+        "description": "Deploy serverless without rewriting code",
+        "link": "https://www.ycombinator.com/companies/sunpia"
+    },
+    {
+        "name": "Delight",
+        "description": "The ultimate dating app for relationship seekers",
+        "link": "https://www.ycombinator.com/companies/delight"
+    },
+    {
+        "name": "Invofox",
+        "description": "Automatic invoice data extraction for software companies",
+        "link": "https://www.ycombinator.com/companies/invofox"
+    },
+    {
+        "name": "Mesh Analytics",
+        "description": "AI Marketing & Sales Analytics for B2B",
+        "link": "https://www.ycombinator.com/companies/mesh-analytics"
+    },
+    {
+        "name": "Hero",
+        "description": "Bill.com for Latam",
+        "link": "https://www.ycombinator.com/companies/hero"
+    },
+    {
+        "name": "PrimeVault",
+        "description": "Supercharged custody, trading, and risk infra for institutional CeDeFi",
+        "link": "https://www.ycombinator.com/companies/primevault"
+    },
+    {
+        "name": "KemNet",
+        "description": "KemNet supplies reformulated drugs for specific groups of patients.",
+        "link": "https://www.ycombinator.com/companies/kemnet"
+    },
+    {
+        "name": "HOMLI",
+        "description": "Modern real estate brokerage for Europe",
+        "link": "https://www.ycombinator.com/companies/homli"
+    },
+    {
+        "name": "Patika",
+        "description": "Simple Receivable Automation & Payments for Africa\u2019s SMBs",
+        "link": "https://www.ycombinator.com/companies/patika"
+    },
+    {
+        "name": "Findly",
+        "description": "ChatGPT for Google Analytics",
+        "link": "https://www.ycombinator.com/companies/findly"
+    },
+    {
+        "name": "Relate",
+        "description": "Simple sales CRM for startups and SMBs.",
+        "link": "https://www.ycombinator.com/companies/relate"
+    },
+    {
+        "name": "Relay",
+        "description": "Peer support to overcome addiction \u2013 the modern AA ",
+        "link": "https://www.ycombinator.com/companies/relay"
+    },
+    {
+        "name": "nsave",
+        "description": "Offshore accounts for people in distressed economies.",
+        "link": "https://www.ycombinator.com/companies/nsave"
+    },
+    {
+        "name": "Lamin",
+        "description": "Open-source data infrastructure for biology",
+        "link": "https://www.ycombinator.com/companies/lamin"
+    },
+    {
+        "name": "Trendex - Own the stars",
+        "description": "Transforming billions of fans into active participants in the journey\u2026",
+        "link": "https://www.ycombinator.com/companies/trendex-own-the-stars"
+    },
+    {
+        "name": "Hiresure.ai",
+        "description": "Pave for India to Benchmark Compensation & Predict Offer Declines",
+        "link": "https://www.ycombinator.com/companies/hiresure-ai"
+    },
+    {
+        "name": "AiPrise",
+        "description": "Global KYC and KYB Platform ",
+        "link": "https://www.ycombinator.com/companies/aiprise"
+    },
+    {
+        "name": "Roforco",
+        "description": "YCombinator for Roblox games",
+        "link": "https://www.ycombinator.com/companies/roforco"
+    },
+    {
+        "name": "Wand",
+        "description": "We enable landlords to generate income from solar panels.",
+        "link": "https://www.ycombinator.com/companies/wand"
+    },
+    {
+        "name": "Blacktop Hoops by Vinci Games",
+        "description": "Electronic Arts for VR sports games. ",
+        "link": "https://www.ycombinator.com/companies/blacktop-hoops-by-vinci-games"
+    },
+    {
+        "name": "Ekho Dealer",
+        "description": "Enabling OEMs and distributors to sell vehicles online, like Tesla\u2026",
+        "link": "https://www.ycombinator.com/companies/ekho-dealer"
+    },
+    {
+        "name": "Quindar",
+        "description": "The platform to monitor and automate satellite operations",
+        "link": "https://www.ycombinator.com/companies/quindar"
+    },
+    {
+        "name": "Unthread",
+        "description": "Slack-native customer support platform",
+        "link": "https://www.ycombinator.com/companies/unthread"
+    },
+    {
+        "name": "Kombo",
+        "description": "Unified API for HR, payroll and recruiting software",
+        "link": "https://www.ycombinator.com/companies/kombo"
+    },
+    {
+        "name": "Anchor",
+        "description": "Banking-as-a-service platform for Africa",
+        "link": "https://www.ycombinator.com/companies/anchor"
+    },
+    {
+        "name": "Payfura",
+        "description": "Global payment gateway to buy/sell crypto",
+        "link": "https://www.ycombinator.com/companies/payfura"
+    },
+    {
+        "name": "Plutto",
+        "description": "Verify and validate business customers in minutes for LatAm.",
+        "link": "https://www.ycombinator.com/companies/plutto"
+    },
+    {
+        "name": "Hostfi",
+        "description": "Smart banking for vacation rental managers",
+        "link": "https://www.ycombinator.com/companies/hostfi"
+    },
+    {
+        "name": "Ruffo",
+        "description": "Cross-border real estate transactions made easy",
+        "link": "https://www.ycombinator.com/companies/ruffo"
+    },
+    {
+        "name": "Umbria (by Artemis Labs)",
+        "description": "Launch Stunning Docs, Fast",
+        "link": "https://www.ycombinator.com/companies/umbria-by-artemis-labs"
+    },
+    {
+        "name": "Feather",
+        "description": "Embed retirement accounts into any product",
+        "link": "https://www.ycombinator.com/companies/feather-2"
+    },
+    {
+        "name": "Grai",
+        "description": "Open source version control for metadata",
+        "link": "https://www.ycombinator.com/companies/grai"
+    },
+    {
+        "name": "Tangia",
+        "description": "A toolset for streamers to engage chat",
+        "link": "https://www.ycombinator.com/companies/tangia"
+    },
+    {
+        "name": "Fini",
+        "description": "Proactively solve customer issues with AI",
+        "link": "https://www.ycombinator.com/companies/fini"
+    },
+    {
+        "name": "Metriport",
+        "description": "Open-Source Universal API for Healthcare Data",
+        "link": "https://www.ycombinator.com/companies/metriport"
+    },
+    {
+        "name": "Needl",
+        "description": "Helping SMBs turn missed calls into booked appointments",
+        "link": "https://www.ycombinator.com/companies/needl"
+    },
+    {
+        "name": "iollo",
+        "description": "At-home metabolomics test for healthy lifespan extension",
+        "link": "https://www.ycombinator.com/companies/iollo"
+    },
+    {
+        "name": "Garage",
+        "description": "Auto parts marketplace for Africa",
+        "link": "https://www.ycombinator.com/companies/garage"
+    },
+    {
+        "name": "Chowdeck",
+        "description": "On-demand food delivery for Africa",
+        "link": "https://www.ycombinator.com/companies/chowdeck"
+    },
+    {
+        "name": "Maya Labs",
+        "description": "Building self-programming machines",
+        "link": "https://www.ycombinator.com/companies/maya-labs"
+    },
+    {
+        "name": "FlyCode",
+        "description": "Recover failed subscription payments to increase retention and LTV",
+        "link": "https://www.ycombinator.com/companies/flycode"
+    },
+    {
+        "name": "Pluralith",
+        "description": "Automated infrastructure compliance and documentation",
+        "link": "https://www.ycombinator.com/companies/pluralith"
+    },
+    {
+        "name": "Diversion",
+        "description": "A scalable, cloud-native Git alternative",
+        "link": "https://www.ycombinator.com/companies/diversion"
+    },
+    {
+        "name": "Cambio",
+        "description": "Mobile app helping financially responsible consumers repair bad credit",
+        "link": "https://www.ycombinator.com/companies/cambio"
+    },
+    {
+        "name": "Payable",
+        "description": "No-code online payment collection for Indonesian businesses.",
+        "link": "https://www.ycombinator.com/companies/payable-2"
+    },
+    {
+        "name": "Mintplex Labs",
+        "description": "Developer Tools for AI applications",
+        "link": "https://www.ycombinator.com/companies/mintplex-labs"
+    },
+    {
+        "name": "AlphaWatch AI",
+        "description": "AI copilot for hedge funds with trusted data",
+        "link": "https://www.ycombinator.com/companies/alphawatch-ai"
+    },
+    {
+        "name": "Hedgehog",
+        "description": "Building robotic mushroom farms",
+        "link": "https://www.ycombinator.com/companies/hedgehog-2"
+    },
+    {
+        "name": "Coris",
+        "description": "Risk Infra for SaaS companies and Fintechs that Underwrite SMBs",
+        "link": "https://www.ycombinator.com/companies/coris"
+    },
+    {
+        "name": "Bitstack",
+        "description": "The easiest way to buy, sell, earn, and spend bitcoin in Europe",
+        "link": "https://www.ycombinator.com/companies/bitstack"
+    },
+    {
+        "name": "Airhart Aeronautics",
+        "description": "Airplanes anyone can fly",
+        "link": "https://www.ycombinator.com/companies/airhart-aeronautics"
+    },
+    {
+        "name": "Peoplebox",
+        "description": "OKR, Performance and Engagement tool integrated with your worktools",
+        "link": "https://www.ycombinator.com/companies/peoplebox"
+    },
+    {
+        "name": "Zoltar Labs",
+        "description": "AI-assisted CX tool built with your knowledge.",
+        "link": "https://www.ycombinator.com/companies/zoltar-labs"
+    },
+    {
+        "name": "Nucleus",
+        "description": "Nucleus is the Modern Backend Platform for Microservices",
+        "link": "https://www.ycombinator.com/companies/nucleus"
+    },
+    {
+        "name": "Shipmates",
+        "description": "Shipping platform for online merchants in the Philippines",
+        "link": "https://www.ycombinator.com/companies/shipmates"
+    },
+    {
+        "name": "Thera",
+        "description": "Payroll for remote teams",
+        "link": "https://www.ycombinator.com/companies/thera"
+    },
+    {
+        "name": "Sytex",
+        "description": "Project management platform for Field Infrastructure.",
+        "link": "https://www.ycombinator.com/companies/sytex"
+    },
+    {
+        "name": "Provision",
+        "description": "Ironclad for construction",
+        "link": "https://www.ycombinator.com/companies/provision"
+    },
+    {
+        "name": "Pulppo",
+        "description": "Shopify for Real Estate Agents in LATAM",
+        "link": "https://www.ycombinator.com/companies/pulppo"
+    },
+    {
+        "name": "Videobug",
+        "description": "Record code and auto-generate test cases",
+        "link": "https://www.ycombinator.com/companies/videobug"
+    },
+    {
+        "name": "NewsCatcher",
+        "description": "News API for risk and data teams",
+        "link": "https://www.ycombinator.com/companies/newscatcher"
+    },
+    {
+        "name": "Typewise",
+        "description": "Boosting customer service and sales productivity by 2-3x.",
+        "link": "https://www.ycombinator.com/companies/typewise"
+    },
+    {
+        "name": "Tersho",
+        "description": "PowerPoint co-pilot to help you make beautiful presentations faster.",
+        "link": "https://www.ycombinator.com/companies/tersho"
+    },
+    {
+        "name": "Ajourney",
+        "description": "Gusto for South East Asia",
+        "link": "https://www.ycombinator.com/companies/ajourney"
+    },
+    {
+        "name": "BiggerPicture",
+        "description": "Scheduling automation platform between trucking and warehousing ",
+        "link": "https://www.ycombinator.com/companies/biggerpicture"
+    },
+    {
+        "name": "Unify",
+        "description": "Accelerate Your AI With One Line of Code",
+        "link": "https://www.ycombinator.com/companies/unify"
+    },
+    {
+        "name": "Flair Labs",
+        "description": "Unlock insights from conversation data with LLMs",
+        "link": "https://www.ycombinator.com/companies/flair-labs"
+    },
+    {
+        "name": "Apprecio",
+        "description": "Apprecio helps mom & pop shops in Latam accept card payments. ",
+        "link": "https://www.ycombinator.com/companies/apprecio"
+    },
+    {
+        "name": "HelperAI",
+        "description": "Your enterprise AI agents creation platform",
+        "link": "https://www.ycombinator.com/companies/helperai"
+    },
+    {
+        "name": "Metafi",
+        "description": "Blockchain infrastructure for Web3 games",
+        "link": "https://www.ycombinator.com/companies/metafi"
+    },
+    {
+        "name": "Ordinary Seafood",
+        "description": "We are doing for seafood what Impossible did for meat",
+        "link": "https://www.ycombinator.com/companies/ordinary-seafood"
+    },
+    {
+        "name": "Aragorn AI",
+        "description": "Platform to automate employee data from everywhere to anywhere",
+        "link": "https://www.ycombinator.com/companies/aragorn-ai"
+    },
+    {
+        "name": "Hypeshot",
+        "description": "coming soon ",
+        "link": "https://www.ycombinator.com/companies/hypeshot"
+    },
+    {
+        "name": "Payload CMS",
+        "description": "Developer-First Headless CMS and Application Framework",
+        "link": "https://www.ycombinator.com/companies/payload-cms"
+    },
+    {
+        "name": "Ten Lives",
+        "description": "Decarbonizing pet food with AI.",
+        "link": "https://www.ycombinator.com/companies/ten-lives"
+    },
+    {
+        "name": "Malama Health",
+        "description": "Remote monitoring for diabetes in pregnancy ",
+        "link": "https://www.ycombinator.com/companies/malama-health"
+    },
+    {
+        "name": "Phind",
+        "description": "AI search engine",
+        "link": "https://www.ycombinator.com/companies/phind"
+    },
+    {
+        "name": "Maverick BioMetals",
+        "description": "Expanding Metal Production with Biology",
+        "link": "https://www.ycombinator.com/companies/maverick-biometals"
+    },
+    {
+        "name": "Illuminant Surgical",
+        "description": "We let surgeons project x-rays directly on the patient\u2019s skin",
+        "link": "https://www.ycombinator.com/companies/illuminant-surgical"
+    },
+    {
+        "name": "Tank Payments",
+        "description": "Tank is the neobank that gets truckers paid faster.",
+        "link": "https://www.ycombinator.com/companies/tank-payments"
+    },
+    {
+        "name": "Apply Design",
+        "description": "Shopify for property listings",
+        "link": "https://www.ycombinator.com/companies/apply-design"
+    },
+    {
+        "name": "Evoly",
+        "description": "Smart electric & water meters as a service",
+        "link": "https://www.ycombinator.com/companies/evoly"
+    },
+    {
+        "name": "Juicebox",
+        "description": "AI powered people search",
+        "link": "https://www.ycombinator.com/companies/juicebox"
+    },
+    {
+        "name": "Rio",
+        "description": "On & Off ramp infrastructure for LATAM",
+        "link": "https://www.ycombinator.com/companies/rio"
+    },
+    {
+        "name": "Popsy",
+        "description": "Website builder that works like Notion",
+        "link": "https://www.ycombinator.com/companies/popsy"
+    },
+    {
+        "name": "Gullak Money",
+        "description": "Gullak automates savings & invests these in gold",
+        "link": "https://www.ycombinator.com/companies/gullak-money"
+    },
+    {
+        "name": "Kubefy",
+        "description": "A modern credit capital platform",
+        "link": "https://www.ycombinator.com/companies/kubefy"
+    },
+    {
+        "name": "Windmill",
+        "description": "Open-source platform to turn scripts into internal apps & workflows",
+        "link": "https://www.ycombinator.com/companies/windmill"
+    },
+    {
+        "name": "Activepieces",
+        "description": "Open-source no-code business automation tool",
+        "link": "https://www.ycombinator.com/companies/activepieces"
+    },
+    {
+        "name": "Seaflight Technologies",
+        "description": "The first electric air cargo drone airline",
+        "link": "https://www.ycombinator.com/companies/seaflight-technologies"
+    },
+    {
+        "name": "Raven",
+        "description": "API to manage notifications across SMS, Email, Push, Slack, WA & more ",
+        "link": "https://www.ycombinator.com/companies/raven"
+    },
+    {
+        "name": "Cashboard",
+        "description": "Cashboard is the analytics hub for finance teams",
+        "link": "https://www.ycombinator.com/companies/cashboard"
+    },
+    {
+        "name": "CodeCrafters",
+        "description": "Programming courses for experienced engineers",
+        "link": "https://www.ycombinator.com/companies/codecrafters"
+    },
+    {
+        "name": "Notebook Labs",
+        "description": "Decentralized, anonymous, and accountable identity on Web3.",
+        "link": "https://www.ycombinator.com/companies/notebook-labs"
+    },
+    {
+        "name": "Blee",
+        "description": "Smart, fast, and collaborative compliance reviews ",
+        "link": "https://www.ycombinator.com/companies/blee"
+    },
+    {
+        "name": "Overwatch",
+        "description": "Enterprise software for strategic, risk, and cyber fraud intelligence",
+        "link": "https://www.ycombinator.com/companies/overwatch"
+    },
+    {
+        "name": "Bridgecard",
+        "description": "Card issuer for Africa",
+        "link": "https://www.ycombinator.com/companies/bridgecard"
+    },
+    {
+        "name": "ALT TEX",
+        "description": "Biodegradable and carbon neutral textiles, engineered from food waste.",
+        "link": "https://www.ycombinator.com/companies/alt-tex"
+    },
+    {
+        "name": "Disclo",
+        "description": "Health disclosure and accommodation management platform",
+        "link": "https://www.ycombinator.com/companies/disclo"
+    },
+    {
+        "name": "Tranch",
+        "description": "The B2B Checkout offering Pay Now and Pay Later for SaaS and Services",
+        "link": "https://www.ycombinator.com/companies/tranch"
+    },
+    {
+        "name": "Voltic",
+        "description": "Solar-powered shipping",
+        "link": "https://www.ycombinator.com/companies/voltic"
+    },
+    {
+        "name": "IvyCheck",
+        "description": "LLM quality testing and monitoring",
+        "link": "https://www.ycombinator.com/companies/ivycheck"
+    },
+    {
+        "name": "Sunlight",
+        "description": "The Universal Card-On-File API",
+        "link": "https://www.ycombinator.com/companies/sunlight"
+    },
+    {
+        "name": "Novig",
+        "description": "The first high-frequency, commission-free sports betting exchange",
+        "link": "https://www.ycombinator.com/companies/novig"
+    },
+    {
+        "name": "Lyra",
+        "description": "Spend crypto anywhere online",
+        "link": "https://www.ycombinator.com/companies/lyra"
+    },
+    {
+        "name": "Delegasi",
+        "description": "Automated accounting service for small businesses in Indonesia",
+        "link": "https://www.ycombinator.com/companies/delegasi"
+    },
+    {
+        "name": "Signatur Biosciences",
+        "description": "Simple blood tests for complex diseases.",
+        "link": "https://www.ycombinator.com/companies/signatur-biosciences"
+    },
+    {
+        "name": "NuMind",
+        "description": "Create custom NLP models",
+        "link": "https://www.ycombinator.com/companies/numind"
+    },
+    {
+        "name": "Ballerine",
+        "description": "Open-source KYC and risk management infrastructure",
+        "link": "https://www.ycombinator.com/companies/ballerine"
+    },
+    {
+        "name": "EthosX",
+        "description": "The protocol for derivatives on blockchains",
+        "link": "https://www.ycombinator.com/companies/ethosx"
+    },
+    {
+        "name": "Boostly",
+        "description": "The all-in-one SMS marketing and communications hub for restaurants",
+        "link": "https://www.ycombinator.com/companies/boostly"
+    },
+    {
+        "name": "Pilot AI",
+        "description": "Turns your sales calls into CRM data, automatically.",
+        "link": "https://www.ycombinator.com/companies/pilot-ai"
+    },
+    {
+        "name": "BlueHill Payments",
+        "description": "Expanding Payment Flexibility and Lowering Rates for Merchants",
+        "link": "https://www.ycombinator.com/companies/bluehill-payments"
+    },
+    {
+        "name": "Craze",
+        "description": "All-in-one HR, Payroll and Compliance for Startups",
+        "link": "https://www.ycombinator.com/companies/craze"
+    },
+    {
+        "name": "RootFi",
+        "description": "The Unified API for Business Financial Data ",
+        "link": "https://www.ycombinator.com/companies/rootfi"
+    },
+    {
+        "name": "Fetii",
+        "description": "Fetii transports groups and businesses together, on-demand",
+        "link": "https://www.ycombinator.com/companies/fetii"
+    },
+    {
+        "name": "Array Labs",
+        "description": "We're building satellites to create a real-time 3D map of the world.",
+        "link": "https://www.ycombinator.com/companies/array-labs"
+    },
+    {
+        "name": "Dr. Treat",
+        "description": "\u201cOne Medical for pets.\u201d",
+        "link": "https://www.ycombinator.com/companies/dr-treat"
+    },
+    {
+        "name": "Serinus Biosciences",
+        "description": "Combinations therapy by rational design",
+        "link": "https://www.ycombinator.com/companies/serinus-biosciences"
+    },
+    {
+        "name": "trebu",
+        "description": "Extract and organize order requests, supplier availabilities, and\u2026",
+        "link": "https://www.ycombinator.com/companies/trebu"
+    },
+    {
+        "name": "BricksAI",
+        "description": "Streamlining LLM application management for enterprises",
+        "link": "https://www.ycombinator.com/companies/bricksai"
+    },
+    {
+        "name": "Paigo",
+        "description": "Billing on Autopilot with Full Flexibility",
+        "link": "https://www.ycombinator.com/companies/paigo"
+    },
+    {
+        "name": "Moneco",
+        "description": "Neobank for African migrants in Europe",
+        "link": "https://www.ycombinator.com/companies/moneco"
+    },
+    {
+        "name": "ECSA",
+        "description": "Circle for Latam. ",
+        "link": "https://www.ycombinator.com/companies/ecsa"
+    },
+    {
+        "name": "Coupl",
+        "description": "A neobank for couples in India",
+        "link": "https://www.ycombinator.com/companies/coupl"
+    },
+    {
+        "name": "CustomerOS",
+        "description": "Reduce churn, increase NRR, and grow 3x faster. Built for B2B SaaS.",
+        "link": "https://www.ycombinator.com/companies/customeros"
+    },
+    {
+        "name": "Sail",
+        "description": "Using generative AI to 10x outbound sales, all on autopilot!",
+        "link": "https://www.ycombinator.com/companies/sail-2"
+    },
+    {
+        "name": "TrueBiz",
+        "description": "Instant Background Checks for Businesses",
+        "link": "https://www.ycombinator.com/companies/truebiz"
+    },
+    {
+        "name": "Alterya",
+        "description": "",
+        "link": "https://www.ycombinator.com/companies/alterya"
+    },
+    {
+        "name": "Cerrion",
+        "description": "Nest Cam for manufacturing production lines",
+        "link": "https://www.ycombinator.com/companies/cerrion"
+    },
+    {
+        "name": "Blitz",
+        "description": "Build apps, automate tasks, and scale operations with zero code.",
+        "link": "https://www.ycombinator.com/companies/blitz"
+    },
+    {
+        "name": "erad",
+        "description": "Non-dilutive funding and payments in the Middle East",
+        "link": "https://www.ycombinator.com/companies/erad"
+    },
+    {
+        "name": "SynthCall",
+        "description": "The AI Automated Call Center",
+        "link": "https://www.ycombinator.com/companies/synthcall"
+    },
+    {
+        "name": "Pasito",
+        "description": "Saving companies money on healthcare and payroll ",
+        "link": "https://www.ycombinator.com/companies/pasito"
+    },
+    {
+        "name": "Bunting Labs",
+        "description": "Digitize geospatial data locked on paper and in PDFs ",
+        "link": "https://www.ycombinator.com/companies/bunting-labs"
+    },
+    {
+        "name": "Devyce",
+        "description": "The global mobile network for business. ",
+        "link": "https://www.ycombinator.com/companies/devyce"
+    },
+    {
+        "name": "Tailor",
+        "description": "Highly Customizable Headless ERP",
+        "link": "https://www.ycombinator.com/companies/tailor"
+    },
+    {
+        "name": "Dittofeed",
+        "description": "Open-source customer engagement",
+        "link": "https://www.ycombinator.com/companies/dittofeed"
+    },
+    {
+        "name": "Cadence",
+        "description": "AI powered running coach.",
+        "link": "https://www.ycombinator.com/companies/cadence-2"
+    },
+    {
+        "name": "Chariot",
+        "description": "A payment network connecting nonprofits to the $229B in DAFs",
+        "link": "https://www.ycombinator.com/companies/chariot-2"
+    },
+    {
+        "name": "Superpowered AI",
+        "description": "API for Retrieval Augmented Generation",
+        "link": "https://www.ycombinator.com/companies/superpowered-ai"
+    },
+    {
+        "name": "Stackup",
+        "description": "Stackup is a platform for building user-friendly blockchain products",
+        "link": "https://www.ycombinator.com/companies/stackup"
+    },
+    {
+        "name": "Two Dots",
+        "description": "Income verification and fraud prevention",
+        "link": "https://www.ycombinator.com/companies/two-dots"
+    },
+    {
+        "name": "Bend",
+        "description": "The modern corporate card built for climate-friendly business",
+        "link": "https://www.ycombinator.com/companies/bend"
+    },
+    {
+        "name": "Sigma AI",
+        "description": "AI to automate customer support for e-commerce brands",
+        "link": "https://www.ycombinator.com/companies/sigma-ai"
+    },
+    {
+        "name": "Truva",
+        "description": "Transform Your SaaS Platform Today",
+        "link": "https://www.ycombinator.com/companies/truva"
+    },
+    {
+        "name": "Alma",
+        "description": "Gamified mobile banking app where people can win $1M every Wednesday",
+        "link": "https://www.ycombinator.com/companies/alma"
+    },
+    {
+        "name": "Penguin AI",
+        "description": "AI-Powered Inbound Sales Platform",
+        "link": "https://www.ycombinator.com/companies/penguin-ai"
+    },
+    {
+        "name": "Birch Biosciences",
+        "description": "We recycle plastic using engineered enzymes",
+        "link": "https://www.ycombinator.com/companies/birch-biosciences"
+    },
+    {
+        "name": "Dialect",
+        "description": "AI copilot for forms, questionnaires & RFX",
+        "link": "https://www.ycombinator.com/companies/dialect-2"
+    },
+    {
+        "name": "Ciro",
+        "description": "SMB search engine for sales teams \ud83d\udd0d",
+        "link": "https://www.ycombinator.com/companies/ciro"
+    },
+    {
+        "name": "Julius",
+        "description": "AI Data Scientist",
+        "link": "https://www.ycombinator.com/companies/julius"
+    },
+    {
+        "name": "Mercator",
+        "description": "AI-assisted data analytics",
+        "link": "https://www.ycombinator.com/companies/mercator"
+    },
+    {
+        "name": "Elessar",
+        "description": "AI-powered engineering productivity tools",
+        "link": "https://www.ycombinator.com/companies/elessar"
+    },
+    {
+        "name": "SolStar",
+        "description": "Buy and send crypto to friends on Discord.",
+        "link": "https://www.ycombinator.com/companies/solstar"
+    },
+    {
+        "name": "Sematic",
+        "description": "Open-source ML development platform",
+        "link": "https://www.ycombinator.com/companies/sematic"
+    },
+    {
+        "name": "Denormalized",
+        "description": "serverless platform for real-time data",
+        "link": "https://www.ycombinator.com/companies/denormalized"
+    },
+    {
+        "name": "Paces",
+        "description": "Software identifying the best places for renewable projects.",
+        "link": "https://www.ycombinator.com/companies/paces"
+    },
+    {
+        "name": "Stream",
+        "description": "Smart automation for insurance claims",
+        "link": "https://www.ycombinator.com/companies/stream"
+    },
+    {
+        "name": "Chordio",
+        "description": "Planning software for remote product development teams",
+        "link": "https://www.ycombinator.com/companies/chordio"
+    },
+    {
+        "name": "Magic",
+        "description": "Seamless & secure pay-by-bank platform, built for B2C.",
+        "link": "https://www.ycombinator.com/companies/magic-2"
+    },
+    {
+        "name": "HyperDX",
+        "description": "Open-source, dev-friendly observability.",
+        "link": "https://www.ycombinator.com/companies/hyperdx"
+    },
+    {
+        "name": "Instant",
+        "description": "The Modern Firebase",
+        "link": "https://www.ycombinator.com/companies/instant"
+    },
+    {
+        "name": "Wolfia",
+        "description": "Automated Compliance Performance Testing for Fintechs",
+        "link": "https://www.ycombinator.com/companies/wolfia"
+    },
+    {
+        "name": "Banabo",
+        "description": "ML Marketing Infrastructure",
+        "link": "https://www.ycombinator.com/companies/banabo"
+    },
+    {
+        "name": "Cisterna Biologics",
+        "description": "High quality mRNA for therapeutic application",
+        "link": "https://www.ycombinator.com/companies/cisterna-biologics"
+    },
+    {
+        "name": "Clinikally",
+        "description": "India's Telemedicine Platform & Online Pharmacy for Dermatology Care",
+        "link": "https://www.ycombinator.com/companies/clinikally"
+    },
+    {
+        "name": "Layerup",
+        "description": "Copilot for Insurance brokers",
+        "link": "https://www.ycombinator.com/companies/layerup"
+    },
+    {
+        "name": "Albiware Inc.",
+        "description": "B2B SaaS for insurance damage repair contractors. ",
+        "link": "https://www.ycombinator.com/companies/albiware-inc"
+    },
+    {
+        "name": "Poly",
+        "description": "Intelligent Personal Cloud Storage",
+        "link": "https://www.ycombinator.com/companies/poly"
+    },
+    {
+        "name": "Pana",
+        "description": "Cross-border banking for Latinos in USA",
+        "link": "https://www.ycombinator.com/companies/pana"
+    },
+    {
+        "name": "Eugit Therapeutics Inc",
+        "description": "Enabling Tissue Targeting of Therapies",
+        "link": "https://www.ycombinator.com/companies/eugit-therapeutics-inc"
+    },
+    {
+        "name": "SimpleHash",
+        "description": "Multi-chain NFT data platform",
+        "link": "https://www.ycombinator.com/companies/simplehash"
+    },
+    {
+        "name": "Medplum",
+        "description": "API first electronic health record (EHR) that is open source",
+        "link": "https://www.ycombinator.com/companies/medplum"
+    },
+    {
+        "name": "BBy",
+        "description": "BBy powders breast milk that's immunologically active & lasts 6 months",
+        "link": "https://www.ycombinator.com/companies/bby"
+    },
+    {
+        "name": "WhiteLab Genomics",
+        "description": "Unleashing the potential of DNA and RNA based therapies using AI",
+        "link": "https://www.ycombinator.com/companies/whitelab-genomics"
+    },
+    {
+        "name": "TradeX",
+        "description": "Exchange to trade on outcome of events.",
+        "link": "https://www.ycombinator.com/companies/tradex"
+    },
+    {
+        "name": "Massdriver",
+        "description": "Deploy secure, scalable cloud infrastructure in minutes not days",
+        "link": "https://www.ycombinator.com/companies/massdriver"
+    },
+    {
+        "name": "Reality Defender",
+        "description": "Enterprise Deepfake Detection",
+        "link": "https://www.ycombinator.com/companies/reality-defender"
+    },
+    {
+        "name": "Lizza",
+        "description": "Creators selling their favourite products via their own online shop",
+        "link": "https://www.ycombinator.com/companies/lizza"
+    },
+    {
+        "name": "Mono",
+        "description": "A bank account that integrates LatAm SMEs' finances and operations.",
+        "link": "https://www.ycombinator.com/companies/mono-2"
+    },
+    {
+        "name": "NFTScoring",
+        "description": "NFT Trading Platform",
+        "link": "https://www.ycombinator.com/companies/nftscoring"
+    },
+    {
+        "name": "CrediBook",
+        "description": "Faire for Indonesia",
+        "link": "https://www.ycombinator.com/companies/credibook"
+    },
+    {
+        "name": "Remi",
+        "description": "Modernizing roofing to support residential solar.",
+        "link": "https://www.ycombinator.com/companies/remi"
+    },
+    {
+        "name": "Fresh Factory",
+        "description": "Smart Cold Chain Fulfillment Platform",
+        "link": "https://www.ycombinator.com/companies/fresh-factory"
+    },
+    {
+        "name": "Onboard.io",
+        "description": "Manage & automate customer onboarding and implementation",
+        "link": "https://www.ycombinator.com/companies/onboard-io"
+    },
+    {
+        "name": "Seis",
+        "description": "Banking 100% in Spanish for the 44 million US Spanish speakers",
+        "link": "https://www.ycombinator.com/companies/seis"
+    },
+    {
+        "name": "Bananas",
+        "description": "Groceries delivered in minutes.",
+        "link": "https://www.ycombinator.com/companies/bananas"
+    },
+    {
+        "name": "Eventual",
+        "description": "Data Warehouse for Computer Vision",
+        "link": "https://www.ycombinator.com/companies/eventual"
+    },
+    {
+        "name": "AiSupervision",
+        "description": "The operating system for factory production lines",
+        "link": "https://www.ycombinator.com/companies/aisupervision"
+    },
+    {
+        "name": "Phoenix Hydrogen",
+        "description": "First commodity marketplace for hydrogen.",
+        "link": "https://www.ycombinator.com/companies/phoenix-hydrogen"
+    },
+    {
+        "name": "Finnix",
+        "description": "Financial technology solutions for Indonesian creative businesses",
+        "link": "https://www.ycombinator.com/companies/finnix"
+    },
+    {
+        "name": "Flike",
+        "description": "Flike's AI crafts sales emails that convert",
+        "link": "https://www.ycombinator.com/companies/flike"
+    },
+    {
+        "name": "Alima",
+        "description": "Fresh procurement made easy",
+        "link": "https://www.ycombinator.com/companies/alima"
+    },
+    {
+        "name": "Vecindario",
+        "description": "We make it easier for real estate to sell properties and mortgages.",
+        "link": "https://www.ycombinator.com/companies/vecindario"
+    },
+    {
+        "name": "Karate Labs",
+        "description": "Open-source API & UI test automation ",
+        "link": "https://www.ycombinator.com/companies/karate-labs"
+    },
+    {
+        "name": "HippoBuild",
+        "description": "The Operating System of the construction industry",
+        "link": "https://www.ycombinator.com/companies/hippobuild"
+    },
+    {
+        "name": "Pantore Pay",
+        "description": "Working capital for Brazilian restaurants",
+        "link": "https://www.ycombinator.com/companies/pantore-pay"
+    },
+    {
+        "name": "beU delivery",
+        "description": "Food delivery service in Africa",
+        "link": "https://www.ycombinator.com/companies/beu-delivery"
+    },
+    {
+        "name": "GAVEL",
+        "description": "Live shopping marketplace",
+        "link": "https://www.ycombinator.com/companies/gavel"
+    },
+    {
+        "name": "Cofactr",
+        "description": "Cloud pre-factory logistics and procurement for electronics",
+        "link": "https://www.ycombinator.com/companies/cofactr"
+    },
+    {
+        "name": "EasyCode",
+        "description": "ChatGPT that understands your codebase.",
+        "link": "https://www.ycombinator.com/companies/easycode"
+    },
+    {
+        "name": "Revoy",
+        "description": "Make diesel semi trucks hybrid-electric",
+        "link": "https://www.ycombinator.com/companies/revoy"
+    },
+    {
+        "name": "KorrAI",
+        "description": "Satellite based  subsidence monitoring, powered by AI",
+        "link": "https://www.ycombinator.com/companies/korrai"
+    },
+    {
+        "name": "Pina Earth",
+        "description": "Unlocking carbon markets for European forest owners",
+        "link": "https://www.ycombinator.com/companies/pina-earth"
+    },
+    {
+        "name": "Beyond Aero",
+        "description": "First electric business aircraft designed for hydrogen propulsion",
+        "link": "https://www.ycombinator.com/companies/beyond-aero"
+    },
+    {
+        "name": "Govdash",
+        "description": "AI proposal and capture solution for GovCon.",
+        "link": "https://www.ycombinator.com/companies/govdash"
+    },
+    {
+        "name": "Origami Therapeutics, Inc.",
+        "description": "Oral drugs to halt neurodegeneration",
+        "link": "https://www.ycombinator.com/companies/origami-therapeutics-inc"
+    },
+    {
+        "name": "Cinapse",
+        "description": "The Operating System of Hollywood",
+        "link": "https://www.ycombinator.com/companies/cinapse"
+    },
+    {
+        "name": "AirMyne",
+        "description": "Building systems to remove carbon dioxide from air at industrial scale",
+        "link": "https://www.ycombinator.com/companies/airmyne"
+    },
+    {
+        "name": "CloudEagle.ai",
+        "description": "SaaS Procurement and Optimization Platform",
+        "link": "https://www.ycombinator.com/companies/cloudeagle-ai"
+    },
+    {
+        "name": "Mooji Meats",
+        "description": "We make plant-based steaks",
+        "link": "https://www.ycombinator.com/companies/mooji-meats"
+    },
+    {
+        "name": "Poko",
+        "description": "Seamless Fiat Payments for Web3",
+        "link": "https://www.ycombinator.com/companies/poko"
+    },
+    {
+        "name": "GoSats",
+        "description": "GoSats helps you earn free bitcoin when you shop in India.",
+        "link": "https://www.ycombinator.com/companies/gosats"
+    },
+    {
+        "name": "Glocally",
+        "description": "The last mile delivery service for e-commerce businesses in Europe.",
+        "link": "https://www.ycombinator.com/companies/glocally"
+    },
+    {
+        "name": "Dealls \u2013\u00a0Jobs & Mentoring",
+        "description": "Indonesia's #1 ATS & Job Portal to match top talents & companies",
+        "link": "https://www.ycombinator.com/companies/dealls-jobs-and-mentoring"
+    },
+    {
+        "name": "Impossible Metals",
+        "description": "Underwater robotic vehicles that collect  battery metals responsibly",
+        "link": "https://www.ycombinator.com/companies/impossible-metals"
+    },
+    {
+        "name": "Trusty",
+        "description": "Limitless Real Estate",
+        "link": "https://www.ycombinator.com/companies/trusty"
+    },
+    {
+        "name": "Query Vary",
+        "description": "The Complete Test Suite for LLMs",
+        "link": "https://www.ycombinator.com/companies/query-vary"
+    },
+    {
+        "name": "Circular",
+        "description": "Subscription consumer electronics for Asia",
+        "link": "https://www.ycombinator.com/companies/circular"
+    },
+    {
+        "name": "Powerhouse AI",
+        "description": "Vision-powered warehouse automation: maximizing performance and value",
+        "link": "https://www.ycombinator.com/companies/powerhouse-ai"
+    },
+    {
+        "name": "GIMO",
+        "description": "We help underbanked workers get paid before payday",
+        "link": "https://www.ycombinator.com/companies/gimo"
+    },
+    {
+        "name": "Olympian Motors",
+        "description": "Manufacturing modular electric vehicles with style",
+        "link": "https://www.ycombinator.com/companies/olympian-motors"
+    },
+    {
+        "name": "Netmaker",
+        "description": "Automated WireGuard networks for distributed systems and Kubernetes",
+        "link": "https://www.ycombinator.com/companies/netmaker"
+    },
+    {
+        "name": "Cashmere",
+        "description": "Crypto wallet for web3 startups",
+        "link": "https://www.ycombinator.com/companies/cashmere"
+    },
+    {
+        "name": "Pigeon",
+        "description": "Simplifying loans with your friends & family.",
+        "link": "https://www.ycombinator.com/companies/pigeon-2"
+    },
+    {
+        "name": "The Ankler",
+        "description": "Subscription entertainment news",
+        "link": "https://www.ycombinator.com/companies/the-ankler"
+    },
+    {
+        "name": "Darsel",
+        "description": "Chatbot teaching K12 math in developing countries",
+        "link": "https://www.ycombinator.com/companies/darsel"
+    },
+    {
+        "name": "Verdn",
+        "description": "An API to bundle trackable climate donations with any transaction.",
+        "link": "https://www.ycombinator.com/companies/verdn"
+    },
+    {
+        "name": "Heptabase",
+        "description": "The visual note-taking tool for learning complex topics.",
+        "link": "https://www.ycombinator.com/companies/heptabase"
+    },
+    {
+        "name": "Reviving Mind",
+        "description": "Addressing Loneliness and Isolation for Seniors",
+        "link": "https://www.ycombinator.com/companies/reviving-mind"
+    },
+    {
+        "name": "Anja Health",
+        "description": "Cord Blood Banking Reimagined",
+        "link": "https://www.ycombinator.com/companies/anja-health"
+    },
+    {
+        "name": "Koko",
+        "description": "Making mental health accessible to everyone.",
+        "link": "https://www.ycombinator.com/companies/koko-2"
+    },
+    {
+        "name": "Sync",
+        "description": "Scheduling Automation Solution",
+        "link": "https://www.ycombinator.com/companies/sync"
+    },
+    {
+        "name": "Finku",
+        "description": "Personal finance platform for Indonesia",
+        "link": "https://www.ycombinator.com/companies/finku"
+    },
+    {
+        "name": "Plover Parametrics",
+        "description": "Climate change insurance that pays out immediately.",
+        "link": "https://www.ycombinator.com/companies/plover-parametrics"
+    },
+    {
+        "name": "Avocademy",
+        "description": "We teach UX/UI design and then help people get great jobs. ",
+        "link": "https://www.ycombinator.com/companies/avocademy"
+    },
+    {
+        "name": "Mahaana Wealth",
+        "description": "Mahaana is first & only licensed digital wealth manager in Pakistan",
+        "link": "https://www.ycombinator.com/companies/mahaana-wealth"
+    },
+    {
+        "name": "Dumme",
+        "description": "Video podcasts to shorts in minutes",
+        "link": "https://www.ycombinator.com/companies/dumme"
+    },
+    {
+        "name": "Marathon Education",
+        "description": "We provide live after-school tutoring to K-12 students in Vietnam",
+        "link": "https://www.ycombinator.com/companies/marathon-education"
+    },
+    {
+        "name": "Workflow86",
+        "description": "AI that automates complex business workflows in minutes",
+        "link": "https://www.ycombinator.com/companies/workflow86"
+    },
+    {
+        "name": "Glow Energy",
+        "description": "Unlocking Virtual Power Plants for rental properties",
+        "link": "https://www.ycombinator.com/companies/glow-energy"
+    },
+    {
+        "name": "WANTD",
+        "description": "A direct to consumer marketplace and influencer network for brands",
+        "link": "https://www.ycombinator.com/companies/wantd"
+    },
+    {
+        "name": "Humand",
+        "description": "Humand creates digital communities for companies",
+        "link": "https://www.ycombinator.com/companies/humand"
+    },
+    {
+        "name": "1Flow",
+        "description": "In-app user feedback software, powered by AI.",
+        "link": "https://www.ycombinator.com/companies/1flow"
+    },
+    {
+        "name": "Unravel Carbon",
+        "description": "Enterprise software for companies to track & reduce their carbon\u2026",
+        "link": "https://www.ycombinator.com/companies/unravel-carbon"
+    },
+    {
+        "name": "RTHM",
+        "description": " Simplifying complex illness care at scale",
+        "link": "https://www.ycombinator.com/companies/rthm"
+    },
+    {
+        "name": "Rally UXR",
+        "description": "User Research CRM",
+        "link": "https://www.ycombinator.com/companies/rally-uxr"
+    },
+    {
+        "name": "discz",
+        "description": "build interactive spaces and vibe with others",
+        "link": "https://www.ycombinator.com/companies/discz"
+    },
+    {
+        "name": "Arpari",
+        "description": "Treasury management for CRE",
+        "link": "https://www.ycombinator.com/companies/arpari"
+    },
+    {
+        "name": "Fleek",
+        "description": "A B2B marketplace for wholesale second hand fashion",
+        "link": "https://www.ycombinator.com/companies/fleek"
+    },
+    {
+        "name": "yhangry",
+        "description": "Marketplace for private chefs",
+        "link": "https://www.ycombinator.com/companies/yhangry"
+    },
+    {
+        "name": "GoJom",
+        "description": "One-stop-shop for Real Estate Solutions. ",
+        "link": "https://www.ycombinator.com/companies/gojom"
+    },
+    {
+        "name": "Ploomber",
+        "description": "Heroku for AI",
+        "link": "https://www.ycombinator.com/companies/ploomber"
+    },
+    {
+        "name": "Float Health",
+        "description": "the marketplace for Specialty Pharma",
+        "link": "https://www.ycombinator.com/companies/float-health"
+    },
+    {
+        "name": "amiloz",
+        "description": "We are a group credit digital lender for micro-business owners and\u2026",
+        "link": "https://www.ycombinator.com/companies/amiloz"
+    },
+    {
+        "name": "Spryngtime",
+        "description": "Usage & billing analytics for AI companies",
+        "link": "https://www.ycombinator.com/companies/spryngtime"
+    },
+    {
+        "name": "Shaped",
+        "description": "APIs for ranking",
+        "link": "https://www.ycombinator.com/companies/shaped"
+    },
+    {
+        "name": "Rider",
+        "description": "Modern parcel delivery for online sellers in Pakistan. ",
+        "link": "https://www.ycombinator.com/companies/rider"
+    },
+    {
+        "name": "ngrow.ai",
+        "description": "Low-code SaaS for marketing in push notifications",
+        "link": "https://www.ycombinator.com/companies/ngrow-ai"
+    },
+    {
+        "name": "Sendo",
+        "description": "The best SMS API for startups",
+        "link": "https://www.ycombinator.com/companies/sendo"
+    },
+    {
+        "name": "Vobi",
+        "description": "All-in-one project management software for construction SMBs in Latam",
+        "link": "https://www.ycombinator.com/companies/vobi"
+    },
+    {
+        "name": "Clupp",
+        "description": "Online insurer with affordable insurance for low risk drivers in Latam",
+        "link": "https://www.ycombinator.com/companies/clupp"
+    },
+    {
+        "name": "QUIK",
+        "description": "Building the operating system for business in LATAM",
+        "link": "https://www.ycombinator.com/companies/quik"
+    },
+    {
+        "name": "Unsaddl",
+        "description": "education benefits for a modern workforce",
+        "link": "https://www.ycombinator.com/companies/unsaddl"
+    },
+    {
+        "name": "WishRoll",
+        "description": "Send songs to your friends' homescreens",
+        "link": "https://www.ycombinator.com/companies/wishroll"
+    },
+    {
+        "name": "SOTERI SKIN",
+        "description": "D2C Skincare for Eczema",
+        "link": "https://www.ycombinator.com/companies/soteri-skin"
+    },
+    {
+        "name": "Decent",
+        "description": "One-click transactions using any token across chains.",
+        "link": "https://www.ycombinator.com/companies/decent"
+    },
+    {
+        "name": "Drifting in Space",
+        "description": "Run compute-intensive apps in a browser",
+        "link": "https://www.ycombinator.com/companies/drifting-in-space"
+    },
+    {
+        "name": "Spade",
+        "description": "Enriched transaction data you can build on",
+        "link": "https://www.ycombinator.com/companies/spade"
+    },
+    {
+        "name": "Fogbender",
+        "description": "Customer support tool purpose-built for companies that sell APIs",
+        "link": "https://www.ycombinator.com/companies/fogbender"
+    },
+    {
+        "name": "PropelAuth",
+        "description": "Team-based authentication for B2B SaaS",
+        "link": "https://www.ycombinator.com/companies/propelauth"
+    },
+    {
+        "name": "Yatima Inc.",
+        "description": "A verifiable computing platform",
+        "link": "https://www.ycombinator.com/companies/yatima-inc"
+    },
+    {
+        "name": "Topship",
+        "description": "Flexport for African Merchants - Building the OS for Global Logistics",
+        "link": "https://www.ycombinator.com/companies/topship"
+    },
+    {
+        "name": "Amal Invest",
+        "description": "Investing app for Muslims",
+        "link": "https://www.ycombinator.com/companies/amal-invest"
+    },
+    {
+        "name": "SNAB",
+        "description": "A global treasury management platform for complex multi-group and\u2026",
+        "link": "https://www.ycombinator.com/companies/snab"
+    },
+    {
+        "name": "Quan",
+        "description": "End-to-end platform to improve wellbeing and team performance. ",
+        "link": "https://www.ycombinator.com/companies/quan"
+    },
+    {
+        "name": "Attain",
+        "description": "One-Stop Shop for Convenience Store Inventory",
+        "link": "https://www.ycombinator.com/companies/attain"
+    },
+    {
+        "name": "Better Opinions",
+        "description": "Prediction market of India",
+        "link": "https://www.ycombinator.com/companies/better-opinions"
+    },
+    {
+        "name": "Forest",
+        "description": "Digital property manager and neobank for homeowner associations.",
+        "link": "https://www.ycombinator.com/companies/forest"
+    },
+    {
+        "name": "Nophin",
+        "description": "AI Underwriting Copilot For Commercial Real Estate Investors. ",
+        "link": "https://www.ycombinator.com/companies/nophin"
+    },
+    {
+        "name": "Venue.live",
+        "description": "Fun and interactive All Hands & AMAs for remote teams",
+        "link": "https://www.ycombinator.com/companies/venue-live"
+    },
+    {
+        "name": "UNISON",
+        "description": "Live between worlds, in UNISON. Using the headset we're building",
+        "link": "https://www.ycombinator.com/companies/unison"
+    },
+    {
+        "name": "IoTFlows Inc",
+        "description": "AI-Powered Machine Performance Monitoring",
+        "link": "https://www.ycombinator.com/companies/iotflows-inc"
+    },
+    {
+        "name": "Trueplace",
+        "description": "Super assistant for real estate professionals.",
+        "link": "https://www.ycombinator.com/companies/trueplace"
+    },
+    {
+        "name": "Vessel",
+        "description": "Developer-first, native integration platform for GTM tools",
+        "link": "https://www.ycombinator.com/companies/vessel"
+    },
+    {
+        "name": "Cypher Wallet",
+        "description": "Multi-Chain Crypto Wallet with a Crypto Debit Card",
+        "link": "https://www.ycombinator.com/companies/cypher-wallet"
+    },
+    {
+        "name": "Joon",
+        "description": "Behavior improvement platform for kids with ADHD, Autism, & Anxiety",
+        "link": "https://www.ycombinator.com/companies/joon"
+    },
+    {
+        "name": "Bracket",
+        "description": "Two-way syncs between business tools and your database",
+        "link": "https://www.ycombinator.com/companies/bracket"
+    },
+    {
+        "name": "AvairSense",
+        "description": "We go all out to Build the Smartest AI-Enabled Cameras!",
+        "link": "https://www.ycombinator.com/companies/avairsense"
+    },
+    {
+        "name": "PINA",
+        "description": "WealthFront of Indonesia ",
+        "link": "https://www.ycombinator.com/companies/pina"
+    },
+    {
+        "name": "Numida",
+        "description": "Working capital for African micro businesses",
+        "link": "https://www.ycombinator.com/companies/numida"
+    },
+    {
+        "name": "Brainboard",
+        "description": "Visually design and manage cloud infrastructures.",
+        "link": "https://www.ycombinator.com/companies/brainboard"
+    },
+    {
+        "name": "re-mint",
+        "description": "official secondhand marketplaces for fashion brands",
+        "link": "https://www.ycombinator.com/companies/re-mint"
+    },
+    {
+        "name": "Ponyrun",
+        "description": "ChatGPT for Sales Data",
+        "link": "https://www.ycombinator.com/companies/ponyrun"
+    },
+    {
+        "name": "Andson Biotech",
+        "description": "Process Analytical Technologies (PATs) for Advanced Therapies ",
+        "link": "https://www.ycombinator.com/companies/andson-biotech"
+    },
+    {
+        "name": "Neural Dynamics Technologies Inc.",
+        "description": "Enabling high-precision, closed-loop deep brain stimulation ",
+        "link": "https://www.ycombinator.com/companies/neural-dynamics-technologies-inc"
+    },
+    {
+        "name": "Theneo",
+        "description": "Stripe-like API Docs in just a few clicks",
+        "link": "https://www.ycombinator.com/companies/theneo"
+    },
+    {
+        "name": "Kula",
+        "description": "Replacing 20 Million Salespeople With AI",
+        "link": "https://www.ycombinator.com/companies/kula"
+    },
+    {
+        "name": "mutable.ai",
+        "description": "AI Accelerated Software Development",
+        "link": "https://www.ycombinator.com/companies/mutable-ai"
+    },
+    {
+        "name": "HoyTrabajas",
+        "description": "LinkedIn for low-skilled workers in LATAM",
+        "link": "https://www.ycombinator.com/companies/hoytrabajas"
+    },
+    {
+        "name": "Bemlo",
+        "description": "Marketplace for hiring healthcare workers in Europe",
+        "link": "https://www.ycombinator.com/companies/bemlo"
+    },
+    {
+        "name": "Rome",
+        "description": "The marketplace for truckers",
+        "link": "https://www.ycombinator.com/companies/rome"
+    },
+    {
+        "name": "Fello",
+        "description": "Grow money and win $1000 every week by saving and playing games",
+        "link": "https://www.ycombinator.com/companies/fello"
+    },
+    {
+        "name": "Telematica",
+        "description": "Universal API for EVs and DERs",
+        "link": "https://www.ycombinator.com/companies/telematica"
+    },
+    {
+        "name": "Vimmerse",
+        "description": "Bring your photos to life in 3D with Vimmerse. ",
+        "link": "https://www.ycombinator.com/companies/vimmerse"
+    },
+    {
+        "name": "Lifecast",
+        "description": "Software to create 3D video for VR, robotics and film.",
+        "link": "https://www.ycombinator.com/companies/lifecast"
+    },
+    {
+        "name": "Duplo",
+        "description": "Venmo for B2B in Africa",
+        "link": "https://www.ycombinator.com/companies/duplo"
+    },
+    {
+        "name": "Material Depot",
+        "description": "Search Engine, workflow automation for Architectural & Design industry",
+        "link": "https://www.ycombinator.com/companies/material-depot"
+    },
+    {
+        "name": "SaveIN",
+        "description": "Making private healthcare in India accessible and affordable",
+        "link": "https://www.ycombinator.com/companies/savein"
+    },
+    {
+        "name": "DimOrder",
+        "description": "Toast for Southeast Asia",
+        "link": "https://www.ycombinator.com/companies/dimorder"
+    },
+    {
+        "name": "Courtyard.io",
+        "description": "Bringing physical collectibles to the blockchain. ",
+        "link": "https://www.ycombinator.com/companies/courtyard-io"
+    },
+    {
+        "name": "Carbon Crusher",
+        "description": "We make carbon negative roads ",
+        "link": "https://www.ycombinator.com/companies/carbon-crusher"
+    },
+    {
+        "name": "Nullstone",
+        "description": "An easier way to deploy and manage cloud apps",
+        "link": "https://www.ycombinator.com/companies/nullstone"
+    },
+    {
+        "name": "Take App",
+        "description": "Shopify for WhatsApp commerce",
+        "link": "https://www.ycombinator.com/companies/take-app"
+    },
+    {
+        "name": "BotCity",
+        "description": "Open Source Python RPA + orchestration for tech teams.",
+        "link": "https://www.ycombinator.com/companies/botcity"
+    },
+    {
+        "name": "Payourse",
+        "description": "Tools and infrastructure for building user friendly crypto products",
+        "link": "https://www.ycombinator.com/companies/payourse"
+    },
+    {
+        "name": "Cinder",
+        "description": "Operating system for trust and safety",
+        "link": "https://www.ycombinator.com/companies/cinder-2"
+    },
+    {
+        "name": "Nash",
+        "description": "All in one finance platform for borderless businesses in Africa",
+        "link": "https://www.ycombinator.com/companies/nash-2"
+    },
+    {
+        "name": "AntWalk",
+        "description": "An employee up-skilling platform for fast growing companies",
+        "link": "https://www.ycombinator.com/companies/antwalk"
+    },
+    {
+        "name": "Legistify",
+        "description": "Software designed to simplify  legal operations for enterprises.",
+        "link": "https://www.ycombinator.com/companies/legistify"
+    },
+    {
+        "name": "Moni",
+        "description": "Group Financing for small businesses across Africa.",
+        "link": "https://www.ycombinator.com/companies/moni"
+    },
+    {
+        "name": "Cash Flow Portal",
+        "description": "Investment management platform for real estate",
+        "link": "https://www.ycombinator.com/companies/cash-flow-portal"
+    },
+    {
+        "name": "Airwork",
+        "description": "On-demand labour that's actually good",
+        "link": "https://www.ycombinator.com/companies/airwork"
+    },
+    {
+        "name": "Simplifyd Systems",
+        "description": "We deliver toll-free internet apps",
+        "link": "https://www.ycombinator.com/companies/simplifyd-systems"
+    },
+    {
+        "name": "Durioo",
+        "description": "Streaming Platform for Muslim Children",
+        "link": "https://www.ycombinator.com/companies/durioo"
+    },
+    {
+        "name": "goodfin",
+        "description": "Building the next generation of wealth",
+        "link": "https://www.ycombinator.com/companies/goodfin"
+    },
+    {
+        "name": "Trackingplan",
+        "description": "Automated QA for your Digital Analytics",
+        "link": "https://www.ycombinator.com/companies/trackingplan"
+    },
+    {
+        "name": "Hydra",
+        "description": "Query billions of rows instantly on Postgres.",
+        "link": "https://www.ycombinator.com/companies/hydra"
+    },
+    {
+        "name": "Arintra",
+        "description": "Medical coding automation",
+        "link": "https://www.ycombinator.com/companies/arintra"
+    },
+    {
+        "name": "SmartHelio",
+        "description": "Software to prevent downtime in a solar plant",
+        "link": "https://www.ycombinator.com/companies/smarthelio"
+    },
+    {
+        "name": "Campfire",
+        "description": "Building the next generation of games powered by AI",
+        "link": "https://www.ycombinator.com/companies/campfire"
+    },
+    {
+        "name": "Demo Gorilla",
+        "description": "Make all your live SaaS demos impactful: close more ARR faster",
+        "link": "https://www.ycombinator.com/companies/demo-gorilla"
+    },
+    {
+        "name": "Blitzllama",
+        "description": "A platform to collect and analyze in-product user feedback",
+        "link": "https://www.ycombinator.com/companies/blitzllama"
+    },
+    {
+        "name": "Yunit Inc",
+        "description": "Yunit is the app for investment groups",
+        "link": "https://www.ycombinator.com/companies/yunit-inc"
+    },
+    {
+        "name": "Sendme, Inc",
+        "description": "On demand provider of meat to households and food businesses",
+        "link": "https://www.ycombinator.com/companies/sendme-inc"
+    },
+    {
+        "name": "Vendy",
+        "description": "Vendy makes business payments as simple as a chat with its UPI\u2026",
+        "link": "https://www.ycombinator.com/companies/vendy"
+    },
+    {
+        "name": "Argo",
+        "description": "A social streaming platform powered by creators and fans ",
+        "link": "https://www.ycombinator.com/companies/argo"
+    },
+    {
+        "name": "Lovage",
+        "description": "Smart, virtual receptionists for local businesses.",
+        "link": "https://www.ycombinator.com/companies/lovage"
+    },
+    {
+        "name": "Tendo",
+        "description": "Meesho for Africa - Enabling Africans to sell online with zero capital",
+        "link": "https://www.ycombinator.com/companies/tendo"
+    },
+    {
+        "name": "Convoy",
+        "description": "Webhooks Gateway for outgoing and incoming webhooks.",
+        "link": "https://www.ycombinator.com/companies/convoy-2"
+    },
+    {
+        "name": "Lenco",
+        "description": "Pan-African digital bank for Africa's 50m businesses",
+        "link": "https://www.ycombinator.com/companies/lenco"
+    },
+    {
+        "name": "Dojah Inc",
+        "description": "Prevent Fraud and Onboard Users Faster",
+        "link": "https://www.ycombinator.com/companies/dojah-inc"
+    },
+    {
+        "name": "SubscriptionFlow",
+        "description": "AI based Customizable Subscription & Revenue Management Platform",
+        "link": "https://www.ycombinator.com/companies/subscriptionflow"
+    },
+    {
+        "name": "Strong Compute",
+        "description": "10x-1000x faster compute for Neural Network training",
+        "link": "https://www.ycombinator.com/companies/strong-compute"
+    },
+    {
+        "name": "Grey",
+        "description": "Banking services for remote workers and digital nomads",
+        "link": "https://www.ycombinator.com/companies/grey"
+    },
+    {
+        "name": "Finnt",
+        "description": "",
+        "link": "https://www.ycombinator.com/companies/finnt"
+    },
+    {
+        "name": "Elphinstone, Inc.",
+        "description": "Robo-advisory platform for Pakistan",
+        "link": "https://www.ycombinator.com/companies/elphinstone-inc"
+    },
+    {
+        "name": "Alga Biosciences",
+        "description": "We stop cows from burping methane.",
+        "link": "https://www.ycombinator.com/companies/alga-biosciences"
+    },
+    {
+        "name": "Cera",
+        "description": "Trade US Stocks with Stablecoins.",
+        "link": "https://www.ycombinator.com/companies/cera"
+    },
+    {
+        "name": "Prembly (formerly Identitypass)",
+        "description": "Identity Verification API for Africa",
+        "link": "https://www.ycombinator.com/companies/prembly"
+    },
+    {
+        "name": "Agency",
+        "description": "Advanced Personal Cybersecurity for Enterprises",
+        "link": "https://www.ycombinator.com/companies/agency"
+    },
+    {
+        "name": "Pluto.markets",
+        "description": "Modern Investment Product for 100m underserved Europeans",
+        "link": "https://www.ycombinator.com/companies/pluto-markets"
+    },
+    {
+        "name": "PayCrunch",
+        "description": "Credit Card for college students based on UPI.",
+        "link": "https://www.ycombinator.com/companies/paycrunch"
+    },
+    {
+        "name": "Tola",
+        "description": "The simple, fast and free tool for businesses to pay and get paid",
+        "link": "https://www.ycombinator.com/companies/tola"
+    },
+    {
+        "name": "Livedocs",
+        "description": "No-code analytics tool for modern teams",
+        "link": "https://www.ycombinator.com/companies/livedocs"
+    },
+    {
+        "name": "voize",
+        "description": "App for healthcare workers to fill out forms using speech",
+        "link": "https://www.ycombinator.com/companies/voize"
+    },
+    {
+        "name": "Requestly",
+        "description": "Setup Rules to Redirect and Mock HTTP Requests in Browser",
+        "link": "https://www.ycombinator.com/companies/requestly"
+    },
+    {
+        "name": "Kaagaz",
+        "description": "'Office' Suite for Mobile-first Businesses in India",
+        "link": "https://www.ycombinator.com/companies/kaagaz"
+    },
+    {
+        "name": "Boya",
+        "description": "Corporate Expense cards and Spend management for businesses in Africa",
+        "link": "https://www.ycombinator.com/companies/boya"
+    },
+    {
+        "name": "Curacel",
+        "description": "Modern Insurance Infrastructure for Emerging Markets",
+        "link": "https://www.ycombinator.com/companies/curacel"
+    },
+    {
+        "name": "FinFlx",
+        "description": "Flexible Workplace Savings plans for SMEs in MENA.",
+        "link": "https://www.ycombinator.com/companies/finflx"
+    },
+    {
+        "name": "LunaJoy",
+        "description": "Precision mental health care for women",
+        "link": "https://www.ycombinator.com/companies/lunajoy"
+    },
+    {
+        "name": "SpadeWorks",
+        "description": "Marketplace where Indian SMBs can book verified blue collar workforce",
+        "link": "https://www.ycombinator.com/companies/spadeworks"
+    },
+    {
+        "name": "Cotera",
+        "description": "Find your best customers.",
+        "link": "https://www.ycombinator.com/companies/cotera"
+    },
+    {
+        "name": "Sero",
+        "description": "Customer onboarding built for B2B SaaS",
+        "link": "https://www.ycombinator.com/companies/sero"
+    },
+    {
+        "name": "Botin",
+        "description": "Investment super app for Latin America",
+        "link": "https://www.ycombinator.com/companies/botin"
+    },
+    {
+        "name": "Posh",
+        "description": "Making sustainable batteries",
+        "link": "https://www.ycombinator.com/companies/posh"
+    },
+    {
+        "name": "Toko",
+        "description": "Learn English by speaking with an AI",
+        "link": "https://www.ycombinator.com/companies/toko"
+    },
+    {
+        "name": "Enlightra",
+        "description": "Multicolor lasers for ultrafast data transmission",
+        "link": "https://www.ycombinator.com/companies/enlightra"
+    },
+    {
+        "name": "Cogram",
+        "description": "Drive productivity with an AI for your team",
+        "link": "https://www.ycombinator.com/companies/cogram"
+    },
+    {
+        "name": "Markaz Technologies",
+        "description": "Reselling marketplace for social media entrepreneurs in Pakistan",
+        "link": "https://www.ycombinator.com/companies/markaz-technologies"
+    },
+    {
+        "name": "Eazipay Inc.",
+        "description": "Simple Payroll Solution for Africa",
+        "link": "https://www.ycombinator.com/companies/eazipay-inc"
+    },
+    {
+        "name": "Wibond",
+        "description": "Affirm for LATAM ",
+        "link": "https://www.ycombinator.com/companies/wibond"
+    },
+    {
+        "name": "Velt",
+        "description": "Add powerful collaboration features to your product ridiculously fast.",
+        "link": "https://www.ycombinator.com/companies/velt"
+    },
+    {
+        "name": "digiventures",
+        "description": "Enabling banks have a fintech-style loan origination process",
+        "link": "https://www.ycombinator.com/companies/digiventures"
+    },
+    {
+        "name": "PayCaddy",
+        "description": "Simplified Banking as a Service for Latam",
+        "link": "https://www.ycombinator.com/companies/paycaddy"
+    },
+    {
+        "name": "Tuva Health",
+        "description": "Open source software that cleans and transforms messy healthcare data.",
+        "link": "https://www.ycombinator.com/companies/tuva-health"
+    },
+    {
+        "name": "Plumter",
+        "description": "Easy foreign payments for Africa",
+        "link": "https://www.ycombinator.com/companies/plumter"
+    },
+    {
+        "name": "Complete",
+        "description": "The complete way to do compensation",
+        "link": "https://www.ycombinator.com/companies/complete"
+    },
+    {
+        "name": "Airdot",
+        "description": "An AI-powered notebook for faster data analysis",
+        "link": "https://www.ycombinator.com/companies/airdot"
+    },
+    {
+        "name": "Anfin",
+        "description": "A multi-asset trading platform dedicated to retail investors",
+        "link": "https://www.ycombinator.com/companies/anfin"
+    },
+    {
+        "name": "IMT Care",
+        "description": "Disrupting Indian Insurance space by empowering distrubutors",
+        "link": "https://www.ycombinator.com/companies/imt-care"
+    },
+    {
+        "name": "SALT",
+        "description": "B2B Cross-Border Payment & Compliance Platform",
+        "link": "https://www.ycombinator.com/companies/salt"
+    },
+    {
+        "name": "NearWave",
+        "description": "Helping physicians select the right therapy for breast cancer patients",
+        "link": "https://www.ycombinator.com/companies/nearwave"
+    }
+]

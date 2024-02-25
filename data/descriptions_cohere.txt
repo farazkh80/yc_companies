@@ -1,0 +1,101 @@
+## Cluster 0 Summary
+ **Area of focus**: The companies in this cluster focus on using AI to optimize and automate processes across multiple industries and niches, from sales and finance to construction and healthcare. Their target customers range from startups to established enterprises, seeking to streamline operations, enhance productivity, and gain a competitive edge
+
+**Trends and Patterns**:
+- AI and Machine Learning as a core component: Most of these companies leverage AI and Machine Learning to power their products, including for automation, optimization, and insights.
+- Diverse Industry verticals: These startups work in a diverse range of industries, from AI-powered CRM, payroll and onboarding platforms to healthcare, construction, and logistics automation. 
+- Increasing Productivity: The applications of this cluster mainly focus on optimizing and automating manual processes and helping teams and businesses to increase their productivity. 
+
+**Examples**:
+- TigerEye: Modern enterprise software for sales leaders helping them to gain sales intelligence and insights to enhance their strategies.
+- Million.js: Cop
+
+## Cluster 1 Summary
+ **Area of focus**: The companies in this cluster focus on environmental and climate-related solutions and services, including carbon emissions tracking, renewable energy infrastructure, sustainable supply chain management, and climate-focused fintech. Many of these companies also focus on technological advancement, including AI, machine learning, and biotechnology, to solve these problems. 
+
+**Trends and Patterns**:
+            - Several companies in this cluster focus on using AI, machine learning, and biotechnology to create new solutions in sustainable development, climate change mitigation, and green energy.
+            - Several companies are starting to explore blockchain technology usage to manage carbon credits and carbon emissions tracking.
+            - There is a focus on sustainability and green energy in various industries including air travel, shipping, and construction. 
+            - Several companies in the cluster aim to reduce emissions and pollution through genetic engineering of plants and biological solutions. 
+
+**Examples**:
+            - Carbon Crusher: Carbon negative roads
+            - HyLight: Small unmanned hydrogen airships for long-range monitoring
+           
+
+## Cluster 2 Summary
+ **Area of focus**: 
+
+The companies in this cluster predominantly focus on banking, financial services, and payments. However, there are a few e-commerce, digital health, and SaaS companies as well. The primary focus is on creating seamless digital experiences to enable B2B and B2C transactions. 
+
+These companies seem to be focused on providing solutions for the following customer segments:
+
+1. Retail customers, especially in areas of recurring payments, subscriptions, and digital banking
+2. Freelancers and self-employed workers looking for simple, streamlined payment solutions
+3. SMEs and emerging markets that require increased accessibility to financial services and credit
+4. Other companies, especially in the e-commerce and digital product space, acting as middleware to facilitate transactions between parties
+
+**Trends and Patterns**:
+
+1. There's an increased focus on using AI and big data to create more tailored financial products and services. Companies like AiSDR and Helios Climate Industries are good
+
+## Cluster 3 Summary
+ **Area of focus**:
+These companies primarily focus on providing AI and LLM (Large Language Model) services to other businesses. While some of these companies focus on providing LLM apps and platforms, others offer tools and services optimized for LLM and AI integration. 
+
+**Trends and Patterns**:
+From the list of companies, it's evident that the field of focus for these companies is mainly Artificial Intelligence, more specifically, Large Language Models. With the rise of social media, content creation, and AI, more people are leaning towards AI to create content faster and quicker. 
+
+Most of these companies are leveraging the power of AI and LLMs to provide innovative solutions for their customers, ranging from structuring unstructured data to bioinformatics, and even precipitation tracking. 
+
+It is clear that these companies prioritize leveraging cutting-edge technology to provide innovative solutions for their customers, and AI and LLMs are key tools for achieving this goal. 
+
+**Examples**:
+- Dittofeed:
+
+## Cluster 4 Summary
+ **Area of focus**: These companies primarily focus on leveraging AI to improve different business processes, ranging from sales and marketing to customer support and employee productivity. Many of them also emphasize AI's potential to automate repetitive tasks, increase efficiency, and enhance human productivity. The target customers for these companies include both businesses and individuals looking to implement AI solutions tailored to their needs. 
+
+**Trends and Patterns**:
+            - These companies are indicative of the growing trend of AI adoption in business contexts, particularly for automating customer interactions, sales and marketing efforts, and routine tasks.
+            - Many of these companies aim to revolutionize the way businesses interact with their customers by introducing AI agents and chatbots that can provide 24/7 customer support, personalize recommendations, and increase responsiveness.
+            - There's a focus on enhancing productivity within organizations, whether through AI-powered employee tools or platforms that improve internal processes like hiring, due diligence, and contract negotiation.
+            - Many of these companies demonstrate how AI can be used to optimize marketing
+
+## Cluster 5 Summary
+ **Area of focus**: The listed companies appear to focus on financial services, fintech, and blockchain solutions. Several companies provide AI-powered automation and predictive analytics for various financial sectors, including banking, accounting, and investment. Many of these companies also focus on blockchain technology, cryptocurrency, and De-Fi ecosystems. 
+
+**Trends and Patterns**:
+            - Several companies describe AI-powered automation and predictive analytics for various financial sectors, indicating a trend towards automating financial services and using data-driven insights in this industry.
+            - There's an obvious skew towards blockchain and web3, with several companies building tools and infrastructure to support this emerging trend in fintech.
+            - Several companies provide B2B solutions for streamlining financial operations or providing more data-driven insights, suggesting a trend in providing innovative solutions for financial professionals. 
+
+**Examples**:
+            - WalletKit: Developer platform for building web3 apps with no blockchain expertise.
+            - Quill AI: Automating the job of a financial analyst.
+
+## Cluster 6 Summary
+ Area of focus: These companies focus on developing AI, automation, and digital health solutions for the healthcare industry and aim to improve efficiency, accuracy, and patient outcomes through advanced technology. The target customers for these companies are typically healthcare providers, hospitals, insurers, and patients looking for innovative solutions in the healthcare space.
+
+Trends and patterns: 
+            - There is a growing trend of automation and AI adoption in the healthcare industry to improve efficiency and patient outcomes through advancements.
+            - Many of the companies incorporated Artificial Intelligence (AI) and Machine Learning (ML) to automate specific tasks pertaining to their respective areas.
+            - The increased need for HIPAA compliance and strengthening of user data privacy settings. 
+            - Several of the companies listed have noted that they are developing or incorporating technologies that adhere to HIPAA compliance regulations. 
+            - There is a significant focus on streamlining the user experience through various forms of automation to simplify and improve the user-friendliness of the processes. 
+
+Examples:
+            - KemNet:
+
+## Cluster 7 Summary
+ **Area of focus**: The companies in this cluster predominantly focus on using AI to improve the productivity of software engineering teams and processes. Specifically, this involves improving every part of the software development lifecycle (SDLC) from initial design to final product debugging. 
+
+These companies aim to help engineers, managers, and stakeholders involved in the SDLC by using AI to automate, suggest, or accelerate many different tasks. By doing so, they ultimately aim to increase overall productivity, improve product quality, and create a competitive advantage for engineering teams. 
+
+Their target customers therefore include individuals and teams working in SDLC contexts, such as software and AI engineers, managers, CIOs, and CEOs who want to increase the efficiency of their teams and produce better code more quickly. 
+
+**Trends and Patterns**:
+            - AI is used to augment and automate many parts of the software development process, from design to final testing and debugging
+            - Product offerings include tools to improve coding efficiency, automate documentation, suggest
+

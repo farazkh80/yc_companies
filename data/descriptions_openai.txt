@@ -1,0 +1,123 @@
+## Cluster 0 Summary
+**Area of focus**: The companies in this cluster focus on providing AI copilots across various industries, such as sales, customer success, design, manufacturing, healthcare, construction, and more. These AI copilots aim to assist teams and individuals in optimizing processes, automating tasks, improving efficiency, and enhancing decision-making. The target customers for these companies are predominantly businesses, ranging from startups to large enterprises, looking to leverage artificial intelligence to streamline operations and drive better outcomes in their respective fields.
+
+**Trends and Patterns**:
+- The companies in this cluster emphasize the use of AI copilots to enhance different aspects of business operations, such as sales, customer engagement, design, compliance, procurement, and more.
+- There is a common theme of automation, efficiency, and optimization through the use of AI technology across a wide range of industries and business functions.
+- The target customers for these companies are primarily businesses looking to leverage AI to improve their processes and outcomes, indicating a strong trend towards AI adoption in various sectors.
+
+**Examples**:
+- TigerEye: Modern enterprise software for sales leaders
+- Basepilot: Create a copilot for your product with no-code.
+- Draftaid: AI-copilot for manufacturing drawings
+- Artisan AI: Creating the first human-like digital workers, called Artisans
+- Hona 🚀: The Domino's Pizza Tracker for service businesses and their clients.
+
+## Cluster 1 Summary
+**Area of focus**: The companies in this cluster seem to be focused on various industries such as biotechnology, sustainable energy, AI-driven solutions, marketplace platforms, healthcare services, and environmental sustainability. Their target customers range from businesses in need of specific solutions, to individuals looking for unique marketplace offerings, to industries aiming to reduce their carbon footprint or improve their operational efficiencies.
+
+**Trends and Patterns**:
+- Many companies in this cluster are leveraging technology such as AI, genomics, and software to provide innovative solutions in biotechnology and healthcare.
+- Sustainability is a common theme among these companies, with a focus on environmental impact, carbon reduction, renewable energy, and sustainable practices.
+- Marketplace platforms are prevalent, offering unique services in various industries ranging from insurance and healthcare to real estate and supply chain logistics.
+
+**Examples**:
+- Orbio Earth: Tracking methane emissions with satellites
+- Pure: Marketplace for Rare Coins & Precious Metals
+- Persist AI: Developing long-lasting drug formulations 50% faster
+- Voltic: Solar-powered shipping
+- Beyond Aero: First electric business aircraft designed for hydrogen propulsion
+
+## Cluster 2 Summary
+**Area of focus**: These companies in the cluster seem to focus on providing innovative financial solutions, payment platforms, and banking services tailored for specific regions or industries. Their target customers often include small businesses, emerging markets, underserved communities, and specific sectors like construction, travel, logistics, and real estate.
+
+**Trends and Patterns**:
+- Focus on financial inclusion and tailored banking solutions for specific regions or industries.
+- Emphasis on innovative payment platforms, neobanking services, and streamlining financial processes.
+- Targeting underserved markets such as emerging economies, remote workers, specific regions like Latin America, Africa, Southeast Asia, and specific industries like construction and logistics.
+- Many companies in this cluster are offering unique payment solutions, B2B marketplaces, and financial management tools to cater to the evolving needs of their customers.
+
+**Examples**:
+- Holacasa: End-to-end mortgage solution for Real Estate homebuyers in LatAm
+- Trayd: A construction payroll platform designed for same-day pay
+- Helios Climate Industries: Tech-enabled heat pump contractor that cuts costs by 60%
+- Capimoney: Helping businesses in Africa pay their international suppliers
+- Finex: Finex is a single platform for all e-commerce finances
+
+## Cluster 3 Summary
+**Area of focus**: The companies in this cluster seem to focus on providing tools, platforms, and solutions that enhance various aspects of software development, data management, analytics, and infrastructure management. Their target customers appear to be developers, data scientists, IT professionals, and business teams looking to streamline processes, improve efficiency, and leverage AI/ML technologies for better decision-making.
+
+**Trends and Patterns**:
+- Many companies in this cluster offer AI/ML solutions for data analytics and evaluation.
+- There is a focus on open-source tools and platforms for developers.
+- Several companies provide solutions for cloud infrastructure management and monitoring.
+
+**Examples**:
+- Stacksync: Real-time and two-way sync between CRMs and Databases
+- CodeAnt AI: Scale, Optimise & Enforce Clean Code, Effortlessly!
+- Vectorview: Analytics to improve RAG powered LLM products
+- CambioML: RLHF finetuning and data curation in one unified interface.
+- Neum AI: Open-source RAG framework optimized for large-scale and real-time applications.
+
+## Cluster 4 Summary
+**Area of focus**: The companies in this cluster mainly focus on leveraging artificial intelligence (AI) technology to automate various tasks and improve processes across different industries. Their target customers are businesses looking to streamline operations, enhance customer experiences, and boost efficiency through the integration of AI-powered solutions. These companies aim to assist in areas such as customer support, sales, marketing, education, data analysis, and even creative content generation.
+
+**Trends and Patterns**:
+- These companies are centered around AI technology and its application in automating and enhancing various business functions.
+- They cater to a wide range of industries, showcasing the versatility of AI in different sectors.
+- The target customers for these companies are predominantly businesses looking to leverage AI to improve their operations and services.
+
+**Examples**:
+- Magic Hour: Platform for AI video generation.
+- Terrakotta: Run live technical interviews with AI.
+- Collate: AI-powered customer obsession dashboard for high touch B2B teams.
+- Momentic: Deploy AI agents to test web applications using natural language.
+- Guac: AI-powered demand forecasting for grocery.
+
+## Cluster 5 Summary
+**Area of focus**: The companies in this cluster primarily focus on providing innovative solutions and platforms related to finance, banking, compliance, real estate, and web3 technology. Their target customers consist of financial institutions, fintech companies, real estate investors, retail investors, and businesses looking for modern financial tools and solutions. These companies aim to streamline processes, automate tasks, and provide advanced analytics to improve efficiency and decision-making in their respective industries.
+
+**Trends and Patterns**:
+   - Emphasis on AI and automation in finance and compliance solutions.
+   - Focus on providing tools for web3 applications and blockchain technology.
+   - Targeting specific industry verticals like real estate, construction, and treasury management.
+   - Providing platforms for investment, trading, and asset management.
+   - Offering solutions for simplifying payments, loans, and financial transactions.
+
+**Examples**:
+   - Senso: AI-Powered knowledge base designed for Credit Unions
+   - Greenboard: 'Rippling' for Financial Compliance and Operations
+   - Nowadays: AI co-pilot for corporate event planning
+   - Lightski: Embeddable Document Uploads
+   - Novig: The first high-frequency, commission-free sports betting exchange
+
+## Cluster 6 Summary
+**Area of focus**: These companies in the cluster seem to focus on various aspects of health technology, healthcare automation, and medical services. Their target customers appear to be healthcare professionals, medical facilities, insurance companies, and individuals seeking improved healthcare services, ranging from physicians to mental health providers, pharmacies, and even patients with specific conditions like diabetes or insomnia.
+
+**Trends and Patterns**:
+- Many companies in this cluster offer AI-powered solutions for healthcare automation, such as predictive analytics, automated patient billing, clinical decision support, and automating healthcare operations.
+- The cluster includes companies that cater to specific healthcare segments like mental health, diabetes care, remote monitoring for diabetes in pregnancy, and precision mental health care for women.
+- Several companies provide platforms or software tailored for healthcare providers to enhance their practice, manage workflows efficiently, comply with regulations, or offer specific healthcare services such as surgical robotics or telehealth lung rehab.
+
+**Examples**:
+- Cair Health: Predictive analytics and automation for medical claims
+- Hemingway: Automated Patient Scheduling for Dentists
+- LunaJoy: Precision mental health care for women
+- Stellar Sleep: We help people with chronic insomnia sleep better, using psychology.
+- Shasta Health: AI platform for physical therapists to go independent
+
+## Cluster 7 Summary
+**Area of focus**: This cluster of companies revolves around AI-powered tools and platforms that aim to streamline various aspects of work processes. Their target customers are likely tech-savvy professionals, such as software engineers, data scientists, lawyers, and other business professionals who heavily rely on technology for their day-to-day operations. These companies provide solutions that range from automating workflows, improving coding efficiency, enhancing search capabilities, moderating content, building AI models, to developing AI-powered applications for specific industries.
+
+**Trends and Patterns**:
+- The companies in this cluster are focused on leveraging AI technology to enhance efficiency and productivity in various domains.
+- Many companies offer AI tools tailored for specific professionals such as lawyers, software engineers, content creators, and even liquor store owners.
+- The emphasis on AI-powered solutions for search, automation, data analysis, and workflow optimization indicates a common goal of simplifying complex tasks for their target users.
+
+**Examples**:
+- Lumona: Transforming search by building an internet of AI experts.
+- AgentHub: A no-code platform for automating workflows with AI.
+- VectorShift: Connecting AI workflows to end-users.
+- Type: The AI-first document editor.
+- Material Depot: Search Engine, workflow automation for Architectural & Design industry.
+
