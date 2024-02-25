@@ -48,7 +48,6 @@ def generate_summaries(labels, company_names, descriptions, use_openai=True):
             }
             clustered_companies[label].append(cluster_entry)
 
-        combined = []
         with open(summary_file, 'w') as f:
             for label in tqdm(range(K), desc='Summarizing clusters'):
                 companies = clustered_companies[label]
@@ -84,7 +83,7 @@ def generate_summaries(labels, company_names, descriptions, use_openai=True):
                 f.write(summary)
                 f.write("\n\n")
         
-        with open(summary_file, 'r') as f:
-                summaries = f.read()
-        
-        return summaries
+    with open(summary_file, 'r') as f:
+            summaries = f.read()
+    
+    return summaries
