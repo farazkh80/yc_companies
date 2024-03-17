@@ -68,7 +68,7 @@ st.altair_chart(chart, use_container_width=True)
 
 # Display summaries
 for label, summary in summaries.items():
-    st.write(f"## Cluster {titles[label]}")
+    st.write(f"## {titles[label]}")
     # number of companies in the cluster
     st.write(f"**Number of companies in this cluster**: {len(plot_data[plot_data['label'] == label])}")
     st.write(summary)
